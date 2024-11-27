@@ -1,0 +1,1954 @@
+Age,Stress_Level,Work_Location,Job_Role,Gender,Mental_Health_Condition
+40,Medium,Remote,Data Scientist,Female,Anxiety
+27,High,Onsite,Software Engineer,Male,Depression
+30,Low,Hybrid,HR,Female,Depression
+40,High,Remote,Marketing,Female,Depression
+56,Low,Remote,Sales,Female,Anxiety
+59,Medium,Remote,Software Engineer,Male,Anxiety
+26,Low,Hybrid,Sales,Female,Burnout
+56,Low,Remote,Sales,Male,Burnout
+49,High,Onsite,Project Manager,Male,Burnout
+53,Low,Onsite,Project Manager,Female,Depression
+59,High,Remote,Software Engineer,Male,Depression
+22,Low,Onsite,Data Scientist,Female,Anxiety
+48,Medium,Remote,Software Engineer,Male,Anxiety
+36,Medium,Hybrid,Designer,Male,Depression
+48,Low,Onsite,Sales,Male,Depression
+54,Medium,Remote,Designer,Female,Depression
+32,Medium,Remote,Marketing,Male,Burnout
+33,Medium,Remote,Data Scientist,Male,Burnout
+35,Medium,Onsite,Project Manager,Male,Burnout
+26,Medium,Hybrid,Software Engineer,Female,Burnout
+42,Low,Remote,Software Engineer,Male,Depression
+33,Medium,Remote,Sales,Female,Depression
+22,Medium,Onsite,Software Engineer,Female,Depression
+56,Medium,Remote,HR,Male,Anxiety
+32,High,Onsite,Designer,Female,Anxiety
+42,High,Onsite,Marketing,Male,Anxiety
+28,Medium,Remote,Marketing,Female,Anxiety
+29,High,Remote,Data Scientist,Male,Burnout
+27,Low,Hybrid,Project Manager,Male,Burnout
+54,High,Hybrid,Data Scientist,Female,Burnout
+26,High,Hybrid,Project Manager,Female,Burnout
+50,Low,Hybrid,Designer,Male,Burnout
+24,High,Remote,Designer,Female,Anxiety
+57,Medium,Onsite,Data Scientist,Female,Depression
+22,High,Onsite,Software Engineer,Female,Burnout
+41,Medium,Onsite,Data Scientist,Male,Burnout
+44,Low,Remote,Project Manager,Female,Burnout
+35,High,Hybrid,Data Scientist,Male,Burnout
+48,Low,Hybrid,Designer,Male,Burnout
+50,High,Hybrid,Software Engineer,Male,Depression
+41,Low,Hybrid,Designer,Female,Depression
+36,Low,Remote,Data Scientist,Male,Burnout
+34,High,Hybrid,Data Scientist,Female,Anxiety
+49,Low,Remote,HR,Male,Burnout
+45,Low,Remote,Marketing,Female,Depression
+53,High,Remote,Designer,Female,Anxiety
+29,Medium,Onsite,Marketing,Male,Anxiety
+58,High,Remote,Data Scientist,Female,Burnout
+38,Medium,Hybrid,Data Scientist,Female,Burnout
+50,High,Onsite,Software Engineer,Male,Anxiety
+36,Medium,Onsite,Marketing,Female,Burnout
+27,Medium,Onsite,Designer,Female,Burnout
+32,Low,Remote,Marketing,Female,Burnout
+44,High,Remote,Data Scientist,Male,Burnout
+49,Low,Hybrid,Project Manager,Female,Burnout
+45,Low,Remote,Designer,Male,Anxiety
+41,High,Onsite,Designer,Female,Depression
+50,Low,Onsite,Designer,Male,Burnout
+41,High,Remote,Software Engineer,Female,Anxiety
+57,Low,Remote,Designer,Female,Burnout
+30,Medium,Hybrid,Software Engineer,Male,Burnout
+23,Medium,Remote,Data Scientist,Female,Depression
+32,High,Hybrid,Data Scientist,Male,Depression
+43,Low,Onsite,Designer,Male,Depression
+35,Medium,Hybrid,Marketing,Female,Anxiety
+40,Medium,Onsite,Software Engineer,Male,Burnout
+22,Low,Hybrid,Software Engineer,Female,Anxiety
+36,Medium,Onsite,Data Scientist,Male,Depression
+26,Low,Onsite,Designer,Male,Burnout
+52,High,Onsite,Data Scientist,Male,Depression
+45,Low,Remote,Data Scientist,Male,Burnout
+37,Medium,Hybrid,Software Engineer,Female,Anxiety
+51,Medium,Onsite,Software Engineer,Female,Depression
+52,Medium,Onsite,Sales,Male,Depression
+53,Medium,Onsite,Data Scientist,Male,Burnout
+56,Low,Onsite,Designer,Female,Anxiety
+28,High,Remote,Project Manager,Male,Burnout
+36,High,Remote,Data Scientist,Female,Burnout
+52,Medium,Remote,Sales,Male,Anxiety
+55,Low,Hybrid,Project Manager,Female,Depression
+58,Low,Hybrid,Sales,Male,Burnout
+52,Low,Onsite,Data Scientist,Male,Burnout
+35,Low,Remote,Designer,Male,Burnout
+39,High,Remote,Marketing,Male,Anxiety
+49,High,Onsite,Project Manager,Male,Anxiety
+30,Medium,Onsite,HR,Male,Depression
+56,Low,Remote,HR,Female,Anxiety
+42,Low,Hybrid,Sales,Male,Burnout
+33,High,Onsite,Software Engineer,Male,Anxiety
+23,Medium,Onsite,Project Manager,Male,Depression
+30,Medium,Onsite,Marketing,Female,Burnout
+42,Low,Hybrid,HR,Female,Burnout
+52,Medium,Onsite,Marketing,Male,Burnout
+37,Low,Onsite,Marketing,Male,Burnout
+37,Low,Remote,Data Scientist,Male,Burnout
+25,Medium,Hybrid,HR,Male,Depression
+55,Medium,Remote,Software Engineer,Female,Depression
+35,High,Onsite,HR,Male,Depression
+53,Low,Hybrid,Project Manager,Female,Anxiety
+38,Low,Remote,Data Scientist,Male,Anxiety
+32,High,Hybrid,Project Manager,Male,Depression
+27,Medium,Hybrid,Project Manager,Male,Burnout
+43,Medium,Hybrid,Designer,Male,Burnout
+31,Medium,Remote,Data Scientist,Female,Anxiety
+37,Medium,Onsite,Sales,Male,Burnout
+58,Medium,Hybrid,Project Manager,Female,Depression
+48,Medium,Hybrid,Project Manager,Male,Burnout
+58,Medium,Onsite,Marketing,Female,Burnout
+30,High,Hybrid,Designer,Male,Depression
+60,Medium,Remote,Marketing,Female,Burnout
+38,High,Remote,Sales,Female,Anxiety
+56,Low,Remote,Marketing,Male,Burnout
+41,Low,Hybrid,Software Engineer,Female,Anxiety
+58,Medium,Remote,Designer,Male,Depression
+33,Medium,Hybrid,Sales,Female,Burnout
+40,Low,Onsite,Designer,Male,Depression
+27,Low,Hybrid,Marketing,Male,Depression
+23,Medium,Onsite,Software Engineer,Male,Depression
+44,High,Onsite,HR,Male,Depression
+50,Medium,Remote,Marketing,Male,Burnout
+45,Low,Onsite,Marketing,Male,Depression
+60,Medium,Remote,HR,Male,Anxiety
+43,Low,Hybrid,Marketing,Female,Burnout
+32,Low,Onsite,Marketing,Male,Anxiety
+36,High,Hybrid,Marketing,Female,Anxiety
+54,High,Remote,Designer,Male,Depression
+38,Medium,Remote,Sales,Male,Depression
+58,High,Onsite,Marketing,Male,Anxiety
+60,High,Onsite,Software Engineer,Female,Burnout
+31,Low,Hybrid,Sales,Female,Depression
+52,High,Remote,Data Scientist,Female,Burnout
+41,Low,Hybrid,HR,Female,Burnout
+44,Medium,Onsite,Project Manager,Male,Depression
+42,High,Remote,Data Scientist,Female,Burnout
+53,Low,Hybrid,Software Engineer,Male,Burnout
+52,High,Remote,Software Engineer,Female,Depression
+24,High,Onsite,Sales,Female,Burnout
+59,Medium,Remote,Project Manager,Male,Anxiety
+48,Low,Remote,Sales,Male,Depression
+49,Medium,Remote,Sales,Male,Anxiety
+40,High,Onsite,Project Manager,Male,Anxiety
+45,Medium,Onsite,Marketing,Male,Depression
+39,High,Remote,Data Scientist,Female,Burnout
+31,High,Remote,Software Engineer,Female,Depression
+30,High,Remote,Designer,Female,Burnout
+27,High,Remote,Marketing,Male,Burnout
+59,Medium,Remote,Project Manager,Male,Anxiety
+56,High,Remote,Designer,Male,Burnout
+28,Medium,Onsite,Sales,Female,Depression
+46,High,Hybrid,Sales,Female,Depression
+32,High,Remote,Sales,Female,Depression
+37,Medium,Onsite,Software Engineer,Male,Burnout
+45,Low,Onsite,HR,Female,Depression
+50,Low,Onsite,Sales,Female,Anxiety
+30,Low,Hybrid,Data Scientist,Female,Burnout
+36,High,Hybrid,Project Manager,Male,Burnout
+57,Low,Remote,Project Manager,Male,Anxiety
+58,Low,Onsite,Data Scientist,Male,Anxiety
+57,High,Hybrid,Designer,Female,Burnout
+53,Low,Remote,HR,Female,Burnout
+30,Medium,Onsite,Data Scientist,Male,Burnout
+52,Low,Hybrid,Sales,Female,Depression
+60,High,Remote,HR,Female,Depression
+48,Medium,Hybrid,Marketing,Female,Anxiety
+28,Medium,Remote,HR,Male,Burnout
+27,Medium,Hybrid,Marketing,Female,Depression
+33,High,Hybrid,Project Manager,Female,Anxiety
+45,Low,Hybrid,Designer,Female,Burnout
+50,High,Onsite,Data Scientist,Female,Anxiety
+23,Low,Hybrid,Data Scientist,Female,Depression
+27,High,Hybrid,HR,Female,Burnout
+52,Low,Onsite,Designer,Male,Depression
+51,Low,Hybrid,HR,Male,Burnout
+57,High,Hybrid,Project Manager,Male,Burnout
+41,Low,Hybrid,Data Scientist,Female,Burnout
+33,Medium,Remote,Sales,Female,Anxiety
+53,Low,Onsite,Sales,Female,Depression
+40,Medium,Remote,Project Manager,Female,Burnout
+55,High,Hybrid,Sales,Female,Anxiety
+57,Low,Hybrid,Sales,Female,Depression
+33,Low,Onsite,Sales,Female,Depression
+35,Medium,Hybrid,Sales,Female,Depression
+32,Low,Onsite,Marketing,Male,Anxiety
+56,High,Remote,Designer,Female,Burnout
+55,Low,Onsite,Sales,Female,Depression
+23,High,Hybrid,Software Engineer,Female,Burnout
+38,Medium,Hybrid,Sales,Male,Anxiety
+23,Medium,Remote,Marketing,Male,Burnout
+29,Low,Remote,Project Manager,Female,Burnout
+24,Low,Remote,Data Scientist,Female,Anxiety
+58,Low,Onsite,Software Engineer,Male,Burnout
+42,Low,Hybrid,Project Manager,Male,Anxiety
+42,Low,Onsite,Designer,Male,Anxiety
+45,Medium,Onsite,Designer,Male,Depression
+44,High,Remote,Marketing,Male,Burnout
+23,Low,Remote,Data Scientist,Male,Burnout
+53,Low,Onsite,Software Engineer,Female,Burnout
+58,Low,Onsite,Data Scientist,Female,Burnout
+34,High,Hybrid,Software Engineer,Female,Burnout
+50,Low,Remote,Software Engineer,Male,Depression
+41,Medium,Remote,Software Engineer,Male,Anxiety
+27,Low,Remote,Sales,Female,Burnout
+33,Medium,Onsite,HR,Male,Anxiety
+34,High,Hybrid,Designer,Male,Anxiety
+40,Low,Onsite,Marketing,Female,Burnout
+35,Medium,Remote,Project Manager,Female,Depression
+59,Low,Remote,HR,Female,Depression
+37,Low,Hybrid,HR,Male,Burnout
+60,Medium,Hybrid,Data Scientist,Female,Burnout
+60,Medium,Hybrid,Project Manager,Male,Anxiety
+58,Medium,Onsite,Designer,Female,Depression
+25,Low,Remote,Software Engineer,Male,Burnout
+28,Medium,Hybrid,Software Engineer,Female,Depression
+36,High,Onsite,Software Engineer,Female,Anxiety
+50,High,Hybrid,Designer,Male,Anxiety
+44,Low,Onsite,Sales,Male,Depression
+57,Medium,Hybrid,Marketing,Male,Depression
+35,Low,Onsite,Marketing,Female,Anxiety
+48,Medium,Remote,Data Scientist,Male,Depression
+28,Medium,Hybrid,Designer,Male,Burnout
+49,Medium,Hybrid,Marketing,Female,Depression
+45,Medium,Remote,Designer,Male,Burnout
+22,High,Onsite,Project Manager,Male,Burnout
+24,High,Onsite,Designer,Female,Anxiety
+39,High,Hybrid,Sales,Male,Depression
+38,High,Hybrid,Project Manager,Male,Anxiety
+34,Medium,Hybrid,Software Engineer,Female,Depression
+35,High,Hybrid,Project Manager,Female,Anxiety
+25,Low,Hybrid,Sales,Male,Depression
+37,Low,Hybrid,Sales,Male,Anxiety
+33,High,Onsite,Project Manager,Male,Depression
+24,Medium,Remote,Sales,Female,Depression
+22,High,Hybrid,Project Manager,Male,Depression
+48,High,Onsite,Designer,Male,Anxiety
+47,Medium,Remote,Sales,Female,Anxiety
+51,Medium,Onsite,Software Engineer,Male,Anxiety
+52,Medium,Hybrid,Marketing,Male,Burnout
+41,Medium,Remote,Software Engineer,Female,Anxiety
+28,Medium,Hybrid,Project Manager,Male,Anxiety
+43,Low,Remote,HR,Male,Anxiety
+60,Medium,Hybrid,HR,Male,Depression
+43,Low,Onsite,Sales,Female,Burnout
+57,Low,Hybrid,Designer,Female,Depression
+31,Low,Hybrid,Project Manager,Male,Depression
+35,Low,Remote,Designer,Male,Anxiety
+58,High,Remote,HR,Female,Depression
+26,Medium,Remote,Marketing,Female,Depression
+47,High,Hybrid,Data Scientist,Female,Depression
+27,Low,Hybrid,Designer,Male,Anxiety
+33,Medium,Hybrid,Software Engineer,Female,Burnout
+26,Medium,Hybrid,HR,Male,Depression
+25,Medium,Remote,Marketing,Male,Depression
+57,High,Hybrid,Sales,Female,Anxiety
+38,Medium,Onsite,Marketing,Male,Burnout
+56,High,Remote,Sales,Male,Burnout
+35,High,Hybrid,Designer,Male,Depression
+48,High,Remote,HR,Female,Anxiety
+28,Low,Remote,Project Manager,Female,Anxiety
+29,Low,Onsite,Project Manager,Male,Burnout
+53,Medium,Hybrid,Designer,Female,Depression
+42,High,Remote,Sales,Male,Anxiety
+45,High,Onsite,Software Engineer,Male,Depression
+24,Low,Hybrid,Sales,Male,Burnout
+40,High,Remote,Software Engineer,Female,Burnout
+55,Low,Hybrid,Sales,Male,Depression
+50,Low,Onsite,Designer,Male,Burnout
+36,Medium,Onsite,Marketing,Male,Burnout
+36,Medium,Onsite,Project Manager,Female,Burnout
+39,Low,Onsite,Designer,Female,Burnout
+41,Low,Remote,Marketing,Female,Depression
+58,Low,Onsite,Sales,Male,Anxiety
+25,Low,Remote,Software Engineer,Female,Anxiety
+26,Medium,Onsite,HR,Male,Burnout
+23,Low,Remote,Project Manager,Male,Anxiety
+45,High,Remote,Data Scientist,Male,Burnout
+55,High,Hybrid,Software Engineer,Male,Anxiety
+27,Medium,Hybrid,Software Engineer,Female,Burnout
+33,Low,Remote,Marketing,Male,Burnout
+43,Low,Remote,Software Engineer,Male,Burnout
+43,High,Remote,Sales,Female,Burnout
+22,High,Hybrid,HR,Female,Anxiety
+60,Medium,Onsite,Sales,Female,Depression
+32,Medium,Hybrid,Sales,Male,Anxiety
+44,High,Remote,Sales,Female,Depression
+43,Medium,Hybrid,Data Scientist,Male,Depression
+39,High,Hybrid,Project Manager,Male,Depression
+59,High,Onsite,Sales,Male,Depression
+57,High,Hybrid,Marketing,Male,Depression
+44,Low,Remote,Designer,Female,Depression
+29,Medium,Onsite,HR,Male,Depression
+43,High,Hybrid,Project Manager,Female,Burnout
+53,Medium,Onsite,Designer,Male,Depression
+36,Medium,Onsite,Project Manager,Male,Depression
+47,Low,Remote,Designer,Female,Depression
+31,High,Onsite,Project Manager,Female,Burnout
+43,High,Hybrid,Designer,Male,Burnout
+24,High,Remote,Sales,Female,Burnout
+29,Medium,Remote,Software Engineer,Male,Burnout
+51,High,Remote,Software Engineer,Male,Burnout
+56,High,Onsite,Data Scientist,Male,Depression
+28,Medium,Hybrid,Designer,Male,Burnout
+49,Medium,Hybrid,Marketing,Male,Depression
+45,Medium,Remote,Sales,Female,Burnout
+41,Medium,Remote,Sales,Male,Burnout
+43,Medium,Remote,Designer,Male,Depression
+49,Medium,Hybrid,Designer,Male,Depression
+24,Low,Remote,Marketing,Male,Depression
+55,Medium,Hybrid,Marketing,Male,Depression
+46,Medium,Onsite,HR,Male,Depression
+29,High,Onsite,HR,Male,Depression
+43,High,Remote,Project Manager,Female,Depression
+22,Low,Onsite,Sales,Male,Burnout
+43,Medium,Remote,Data Scientist,Female,Burnout
+47,Medium,Remote,Marketing,Male,Burnout
+49,Low,Onsite,Software Engineer,Male,Depression
+36,Medium,Hybrid,HR,Male,Depression
+33,High,Hybrid,Project Manager,Male,Depression
+39,Medium,Hybrid,Software Engineer,Male,Anxiety
+33,High,Hybrid,Designer,Male,Anxiety
+40,Medium,Remote,Marketing,Female,Anxiety
+58,Medium,Onsite,Project Manager,Female,Burnout
+45,High,Hybrid,Project Manager,Female,Anxiety
+40,Medium,Remote,Sales,Female,Depression
+38,Medium,Hybrid,Designer,Male,Anxiety
+29,Medium,Hybrid,Project Manager,Male,Anxiety
+31,High,Remote,Designer,Male,Burnout
+55,High,Remote,Marketing,Male,Anxiety
+42,Low,Hybrid,Software Engineer,Female,Burnout
+58,Medium,Remote,Data Scientist,Male,Burnout
+36,Low,Onsite,Marketing,Female,Depression
+46,Medium,Remote,Marketing,Female,Burnout
+46,High,Onsite,Project Manager,Male,Burnout
+46,Low,Remote,Software Engineer,Female,Anxiety
+58,Medium,Hybrid,Software Engineer,Female,Depression
+35,Medium,Remote,Marketing,Male,Anxiety
+59,Medium,Onsite,Sales,Male,Burnout
+52,Low,Onsite,Marketing,Male,Depression
+24,Low,Remote,Designer,Female,Burnout
+32,Medium,Onsite,Sales,Female,Anxiety
+24,High,Remote,Data Scientist,Male,Depression
+43,High,Hybrid,Data Scientist,Female,Anxiety
+46,Medium,Onsite,Sales,Male,Burnout
+54,Medium,Onsite,HR,Female,Anxiety
+39,Low,Hybrid,Project Manager,Male,Depression
+25,Low,Remote,Sales,Male,Anxiety
+37,Low,Remote,Sales,Male,Anxiety
+46,High,Hybrid,Project Manager,Female,Depression
+32,Low,Onsite,Data Scientist,Male,Depression
+36,Medium,Hybrid,Marketing,Female,Anxiety
+30,Medium,Remote,Sales,Female,Anxiety
+59,Medium,Hybrid,Software Engineer,Female,Anxiety
+35,High,Hybrid,HR,Male,Depression
+42,High,Onsite,Marketing,Female,Anxiety
+31,High,Remote,Project Manager,Female,Depression
+57,High,Remote,Software Engineer,Male,Anxiety
+51,Medium,Onsite,Marketing,Female,Depression
+30,Low,Onsite,Software Engineer,Female,Burnout
+39,Medium,Hybrid,Software Engineer,Female,Burnout
+36,Medium,Remote,HR,Female,Anxiety
+45,Medium,Remote,Marketing,Male,Burnout
+53,Medium,Remote,Sales,Male,Burnout
+56,High,Onsite,Marketing,Male,Depression
+33,High,Onsite,Data Scientist,Male,Depression
+33,Medium,Remote,Project Manager,Female,Burnout
+60,Medium,Onsite,Sales,Female,Depression
+58,High,Remote,Data Scientist,Male,Burnout
+43,Low,Remote,Project Manager,Male,Burnout
+60,Medium,Hybrid,Software Engineer,Male,Anxiety
+45,Low,Onsite,Software Engineer,Female,Burnout
+35,Medium,Hybrid,Designer,Male,Burnout
+27,Low,Hybrid,HR,Female,Burnout
+34,Medium,Remote,Software Engineer,Male,Depression
+46,Low,Remote,Sales,Male,Anxiety
+27,High,Hybrid,Data Scientist,Female,Depression
+27,Low,Hybrid,Project Manager,Male,Anxiety
+22,Low,Remote,Project Manager,Male,Anxiety
+58,Low,Remote,Designer,Male,Anxiety
+30,Low,Remote,HR,Male,Depression
+34,Medium,Remote,Software Engineer,Male,Anxiety
+47,Low,Onsite,Marketing,Male,Anxiety
+58,High,Onsite,Sales,Female,Burnout
+32,High,Onsite,Designer,Female,Anxiety
+41,Low,Remote,Software Engineer,Female,Anxiety
+32,High,Onsite,Marketing,Male,Anxiety
+58,Low,Hybrid,Sales,Male,Depression
+51,Medium,Hybrid,HR,Female,Burnout
+34,High,Remote,Project Manager,Female,Depression
+26,Low,Hybrid,HR,Male,Depression
+25,High,Hybrid,Designer,Female,Burnout
+57,Medium,Onsite,Software Engineer,Male,Burnout
+33,Low,Remote,Software Engineer,Male,Burnout
+38,High,Remote,Software Engineer,Female,Depression
+43,High,Remote,HR,Female,Burnout
+44,High,Onsite,Sales,Female,Depression
+25,Low,Hybrid,Project Manager,Male,Burnout
+28,Low,Remote,Project Manager,Female,Depression
+51,Low,Remote,HR,Male,Burnout
+49,Medium,Remote,Software Engineer,Female,Anxiety
+30,Medium,Hybrid,Software Engineer,Male,Burnout
+23,Low,Onsite,Project Manager,Female,Depression
+43,Low,Onsite,Marketing,Male,Burnout
+52,Medium,Onsite,Marketing,Female,Anxiety
+42,High,Hybrid,Sales,Female,Depression
+49,Medium,Hybrid,HR,Female,Depression
+37,High,Onsite,Data Scientist,Female,Depression
+57,Medium,Hybrid,Designer,Female,Anxiety
+59,Medium,Remote,Marketing,Female,Burnout
+36,Low,Hybrid,Project Manager,Male,Burnout
+31,High,Hybrid,Designer,Female,Depression
+50,Low,Hybrid,Marketing,Female,Depression
+38,Low,Hybrid,HR,Male,Anxiety
+38,Low,Remote,Project Manager,Female,Burnout
+37,High,Onsite,Software Engineer,Male,Anxiety
+31,Medium,Hybrid,HR,Male,Anxiety
+24,Medium,Hybrid,Data Scientist,Female,Burnout
+30,Medium,Remote,Marketing,Male,Anxiety
+54,High,Onsite,Sales,Male,Anxiety
+41,Low,Onsite,Marketing,Female,Burnout
+59,High,Remote,Project Manager,Male,Depression
+22,Low,Onsite,HR,Male,Depression
+52,Medium,Hybrid,Project Manager,Male,Burnout
+57,Medium,Remote,Software Engineer,Male,Burnout
+37,Medium,Onsite,Marketing,Male,Burnout
+37,Low,Remote,Sales,Male,Depression
+50,Medium,Onsite,Designer,Male,Anxiety
+40,High,Onsite,Sales,Male,Depression
+29,Medium,Remote,Project Manager,Male,Burnout
+24,High,Hybrid,Data Scientist,Female,Burnout
+34,High,Remote,Data Scientist,Female,Depression
+24,High,Onsite,Software Engineer,Male,Burnout
+45,High,Onsite,Designer,Female,Anxiety
+54,Low,Remote,Data Scientist,Male,Burnout
+52,Medium,Hybrid,Project Manager,Male,Burnout
+47,Low,Onsite,Marketing,Male,Anxiety
+44,Low,Onsite,Sales,Female,Anxiety
+56,Medium,Remote,Software Engineer,Female,Burnout
+48,High,Remote,Marketing,Male,Anxiety
+28,High,Onsite,Project Manager,Male,Anxiety
+41,High,Hybrid,Software Engineer,Female,Anxiety
+23,Low,Onsite,HR,Female,Anxiety
+25,Low,Onsite,Data Scientist,Male,Depression
+33,High,Hybrid,Marketing,Male,Anxiety
+45,Medium,Remote,Sales,Male,Depression
+24,Low,Remote,Data Scientist,Female,Anxiety
+44,High,Remote,Designer,Female,Burnout
+23,Medium,Hybrid,HR,Female,Depression
+58,Low,Onsite,Software Engineer,Male,Anxiety
+27,High,Remote,HR,Female,Anxiety
+53,High,Remote,Sales,Male,Depression
+47,Medium,Remote,Data Scientist,Male,Anxiety
+31,Low,Onsite,Designer,Male,Burnout
+35,Low,Hybrid,HR,Male,Anxiety
+43,Medium,Onsite,Data Scientist,Female,Depression
+58,Medium,Remote,Designer,Female,Depression
+35,Low,Onsite,Designer,Male,Anxiety
+48,Medium,Onsite,Data Scientist,Male,Anxiety
+60,Medium,Remote,Project Manager,Male,Anxiety
+35,Low,Hybrid,Data Scientist,Male,Anxiety
+57,High,Onsite,Designer,Female,Anxiety
+52,Low,Hybrid,Sales,Male,Depression
+51,Medium,Onsite,Project Manager,Female,Depression
+59,High,Remote,Designer,Female,Anxiety
+23,High,Hybrid,Data Scientist,Female,Depression
+28,Low,Onsite,Marketing,Female,Burnout
+49,High,Remote,Sales,Female,Anxiety
+30,Low,Hybrid,Marketing,Male,Burnout
+57,Low,Remote,Software Engineer,Male,Depression
+50,High,Hybrid,Project Manager,Male,Anxiety
+58,Low,Remote,HR,Male,Depression
+59,Low,Hybrid,Sales,Female,Anxiety
+56,High,Onsite,Designer,Male,Burnout
+28,Medium,Onsite,Software Engineer,Male,Depression
+31,Medium,Remote,Software Engineer,Male,Burnout
+22,Medium,Onsite,Project Manager,Male,Burnout
+40,High,Hybrid,HR,Female,Depression
+28,High,Hybrid,Software Engineer,Female,Depression
+48,Low,Onsite,Sales,Female,Burnout
+23,Medium,Hybrid,Project Manager,Female,Anxiety
+30,High,Onsite,Software Engineer,Female,Depression
+39,Medium,Remote,Data Scientist,Female,Burnout
+44,Medium,Remote,Data Scientist,Female,Burnout
+22,Medium,Remote,Designer,Male,Anxiety
+48,High,Hybrid,Designer,Female,Anxiety
+32,High,Hybrid,Software Engineer,Male,Burnout
+41,Medium,Hybrid,Project Manager,Male,Anxiety
+46,Medium,Remote,Software Engineer,Male,Burnout
+60,Medium,Remote,Sales,Female,Depression
+22,Medium,Onsite,HR,Female,Anxiety
+42,High,Remote,Marketing,Female,Depression
+28,Medium,Hybrid,Marketing,Male,Anxiety
+50,High,Hybrid,Project Manager,Male,Anxiety
+57,Medium,Hybrid,Software Engineer,Male,Burnout
+27,Medium,Onsite,Sales,Female,Anxiety
+33,Medium,Onsite,Data Scientist,Female,Depression
+46,High,Onsite,HR,Male,Burnout
+23,Low,Onsite,HR,Male,Depression
+30,High,Remote,Data Scientist,Female,Burnout
+48,Medium,Hybrid,Data Scientist,Female,Burnout
+42,High,Onsite,Designer,Female,Depression
+49,High,Hybrid,HR,Male,Anxiety
+53,Low,Remote,Designer,Female,Depression
+49,High,Onsite,Marketing,Male,Burnout
+23,High,Hybrid,Project Manager,Male,Depression
+46,Low,Hybrid,Software Engineer,Female,Anxiety
+48,High,Hybrid,Marketing,Female,Burnout
+28,Medium,Remote,HR,Female,Anxiety
+50,High,Hybrid,HR,Male,Burnout
+33,High,Hybrid,Data Scientist,Male,Burnout
+27,Low,Onsite,Sales,Female,Anxiety
+27,High,Remote,Project Manager,Male,Anxiety
+52,Medium,Hybrid,Sales,Female,Depression
+41,Medium,Remote,Project Manager,Male,Anxiety
+38,High,Hybrid,Marketing,Female,Anxiety
+59,High,Onsite,Project Manager,Male,Anxiety
+40,Medium,Hybrid,Data Scientist,Male,Burnout
+57,High,Hybrid,Data Scientist,Female,Burnout
+31,High,Onsite,Data Scientist,Male,Anxiety
+55,Low,Onsite,Data Scientist,Female,Burnout
+50,High,Onsite,Designer,Male,Anxiety
+60,Low,Hybrid,Marketing,Male,Burnout
+47,Medium,Onsite,HR,Male,Anxiety
+23,High,Remote,Marketing,Male,Anxiety
+49,Low,Remote,Designer,Female,Burnout
+41,Low,Onsite,Sales,Male,Anxiety
+53,Medium,Onsite,Data Scientist,Male,Anxiety
+33,High,Remote,Marketing,Male,Anxiety
+46,Medium,Hybrid,Marketing,Male,Anxiety
+27,High,Hybrid,Software Engineer,Female,Depression
+55,Low,Remote,Designer,Male,Depression
+40,Medium,Onsite,Project Manager,Female,Burnout
+34,Medium,Remote,Project Manager,Female,Anxiety
+53,Low,Hybrid,Marketing,Female,Anxiety
+56,High,Hybrid,HR,Male,Burnout
+58,Low,Onsite,HR,Male,Depression
+32,High,Hybrid,Data Scientist,Male,Burnout
+58,High,Remote,Sales,Male,Burnout
+44,Medium,Remote,Data Scientist,Female,Anxiety
+45,High,Remote,Data Scientist,Male,Burnout
+47,Medium,Hybrid,Marketing,Male,Burnout
+41,Medium,Hybrid,Sales,Female,Burnout
+32,High,Remote,Sales,Male,Anxiety
+32,Low,Hybrid,Project Manager,Female,Depression
+60,High,Onsite,Data Scientist,Male,Depression
+24,Low,Hybrid,HR,Male,Anxiety
+25,Low,Onsite,Sales,Female,Burnout
+46,High,Hybrid,Data Scientist,Male,Burnout
+56,High,Remote,Sales,Male,Depression
+27,Low,Hybrid,Data Scientist,Male,Anxiety
+26,Medium,Remote,Designer,Female,Burnout
+53,High,Hybrid,Software Engineer,Female,Depression
+38,High,Hybrid,HR,Male,Anxiety
+24,Low,Remote,Sales,Female,Burnout
+30,High,Onsite,Marketing,Male,Depression
+34,Low,Onsite,Marketing,Male,Depression
+40,Low,Remote,Marketing,Female,Depression
+23,Low,Remote,Data Scientist,Female,Burnout
+22,High,Remote,Marketing,Female,Depression
+25,Low,Onsite,HR,Female,Anxiety
+44,High,Onsite,Project Manager,Male,Burnout
+36,High,Remote,Sales,Female,Anxiety
+45,Medium,Hybrid,Project Manager,Male,Depression
+48,High,Remote,Software Engineer,Female,Anxiety
+38,Low,Hybrid,Marketing,Female,Depression
+57,Low,Hybrid,Designer,Female,Burnout
+28,Low,Remote,Sales,Female,Depression
+32,Low,Hybrid,Project Manager,Male,Anxiety
+58,High,Remote,Sales,Male,Anxiety
+27,Low,Onsite,Designer,Female,Anxiety
+55,Medium,Hybrid,Project Manager,Male,Anxiety
+54,Low,Onsite,Project Manager,Male,Burnout
+48,High,Remote,Project Manager,Male,Anxiety
+52,Medium,Remote,Project Manager,Male,Depression
+36,High,Remote,HR,Female,Anxiety
+35,Low,Remote,Software Engineer,Male,Burnout
+43,Medium,Onsite,Software Engineer,Male,Depression
+24,Low,Hybrid,HR,Female,Depression
+48,High,Onsite,Software Engineer,Female,Burnout
+47,Low,Hybrid,Marketing,Male,Anxiety
+37,Low,Remote,Software Engineer,Male,Burnout
+39,Medium,Onsite,Project Manager,Male,Anxiety
+46,Low,Onsite,Project Manager,Female,Burnout
+44,High,Onsite,Data Scientist,Male,Depression
+23,Medium,Hybrid,Marketing,Female,Burnout
+34,High,Remote,HR,Male,Depression
+26,Medium,Onsite,Designer,Female,Burnout
+44,Medium,Onsite,Data Scientist,Male,Anxiety
+59,Low,Hybrid,Designer,Male,Burnout
+32,High,Remote,HR,Female,Depression
+36,High,Onsite,Software Engineer,Female,Anxiety
+40,Low,Onsite,Software Engineer,Female,Anxiety
+26,Low,Onsite,Software Engineer,Female,Anxiety
+42,Medium,Onsite,HR,Male,Anxiety
+28,Low,Remote,Designer,Female,Depression
+53,Medium,Onsite,Data Scientist,Female,Anxiety
+59,Low,Onsite,Data Scientist,Male,Anxiety
+45,Low,Remote,Data Scientist,Female,Burnout
+29,High,Remote,Data Scientist,Female,Burnout
+27,Low,Remote,Software Engineer,Male,Depression
+44,Low,Remote,Software Engineer,Male,Burnout
+43,High,Remote,HR,Female,Depression
+22,Medium,Remote,Designer,Female,Anxiety
+59,Low,Onsite,Software Engineer,Female,Depression
+26,High,Onsite,Project Manager,Female,Depression
+40,High,Hybrid,Software Engineer,Male,Burnout
+47,High,Remote,Data Scientist,Female,Depression
+54,High,Hybrid,Sales,Female,Depression
+38,Low,Remote,Designer,Male,Burnout
+24,High,Hybrid,Sales,Female,Depression
+28,Medium,Remote,Project Manager,Male,Burnout
+34,High,Remote,Data Scientist,Female,Depression
+35,Low,Hybrid,Sales,Female,Anxiety
+36,Low,Hybrid,Data Scientist,Female,Depression
+60,Medium,Onsite,Software Engineer,Male,Anxiety
+25,Medium,Hybrid,Data Scientist,Female,Depression
+26,Low,Onsite,Designer,Female,Anxiety
+36,Medium,Onsite,Data Scientist,Male,Burnout
+33,Medium,Remote,Project Manager,Female,Burnout
+51,Low,Hybrid,Data Scientist,Female,Depression
+46,High,Onsite,HR,Male,Burnout
+26,Low,Remote,Software Engineer,Female,Anxiety
+32,High,Hybrid,HR,Female,Burnout
+40,Medium,Hybrid,Project Manager,Male,Anxiety
+46,High,Onsite,Sales,Female,Burnout
+37,Medium,Onsite,Software Engineer,Male,Burnout
+23,Low,Hybrid,Project Manager,Female,Depression
+37,Medium,Remote,Project Manager,Male,Anxiety
+32,High,Hybrid,HR,Male,Depression
+24,High,Hybrid,Designer,Male,Burnout
+41,High,Hybrid,Project Manager,Female,Depression
+57,Medium,Onsite,Software Engineer,Male,Burnout
+37,High,Hybrid,HR,Male,Burnout
+50,High,Onsite,Sales,Male,Anxiety
+30,Medium,Onsite,Data Scientist,Male,Anxiety
+55,Low,Remote,Software Engineer,Male,Depression
+35,Low,Hybrid,Marketing,Male,Depression
+34,Medium,Onsite,Project Manager,Male,Depression
+50,High,Hybrid,Sales,Female,Anxiety
+60,Low,Hybrid,Software Engineer,Male,Anxiety
+58,Low,Remote,Software Engineer,Male,Burnout
+49,Low,Remote,Data Scientist,Female,Burnout
+58,High,Hybrid,Marketing,Male,Anxiety
+47,Low,Onsite,HR,Female,Anxiety
+25,Low,Onsite,Software Engineer,Female,Burnout
+32,Medium,Hybrid,Software Engineer,Female,Depression
+37,Medium,Remote,Designer,Male,Depression
+40,Low,Hybrid,Software Engineer,Male,Anxiety
+58,High,Hybrid,Project Manager,Female,Burnout
+47,Low,Hybrid,Designer,Male,Depression
+57,Medium,Onsite,HR,Male,Burnout
+39,Low,Hybrid,Project Manager,Female,Burnout
+37,High,Remote,Designer,Female,Depression
+41,Medium,Onsite,Software Engineer,Female,Burnout
+38,High,Remote,Project Manager,Male,Depression
+45,Medium,Onsite,Sales,Male,Burnout
+45,Medium,Onsite,Project Manager,Male,Burnout
+47,High,Onsite,Software Engineer,Male,Depression
+41,Medium,Onsite,Sales,Female,Depression
+36,Low,Onsite,Project Manager,Female,Depression
+50,Low,Remote,HR,Female,Depression
+27,High,Hybrid,Marketing,Female,Anxiety
+54,Low,Onsite,HR,Female,Depression
+33,Medium,Onsite,Software Engineer,Female,Burnout
+34,High,Hybrid,Data Scientist,Female,Depression
+54,High,Onsite,Data Scientist,Female,Burnout
+56,Low,Hybrid,Designer,Male,Depression
+47,Low,Remote,HR,Male,Anxiety
+22,Medium,Remote,Sales,Female,Burnout
+42,High,Hybrid,Designer,Male,Burnout
+29,Medium,Hybrid,Project Manager,Male,Depression
+45,High,Remote,Software Engineer,Male,Burnout
+38,Low,Hybrid,Software Engineer,Female,Depression
+24,High,Onsite,Software Engineer,Male,Depression
+29,Low,Onsite,Designer,Male,Depression
+45,High,Hybrid,Software Engineer,Female,Anxiety
+36,Low,Remote,HR,Male,Burnout
+38,High,Hybrid,Marketing,Male,Depression
+43,High,Onsite,Project Manager,Male,Anxiety
+24,High,Onsite,Project Manager,Female,Depression
+57,Medium,Onsite,Marketing,Male,Burnout
+34,High,Hybrid,HR,Female,Burnout
+24,Medium,Remote,Marketing,Female,Anxiety
+24,Low,Hybrid,Project Manager,Female,Anxiety
+40,Medium,Onsite,Software Engineer,Female,Depression
+46,Low,Hybrid,Marketing,Male,Depression
+58,Medium,Remote,Sales,Female,Anxiety
+33,Medium,Hybrid,Data Scientist,Male,Depression
+44,High,Onsite,Project Manager,Male,Depression
+44,Low,Onsite,Data Scientist,Male,Burnout
+39,Low,Remote,Sales,Female,Depression
+23,Low,Remote,HR,Male,Burnout
+28,Medium,Onsite,HR,Female,Depression
+38,Medium,Onsite,Sales,Male,Anxiety
+37,Low,Onsite,Sales,Female,Burnout
+39,Medium,Hybrid,Sales,Female,Anxiety
+25,High,Remote,Data Scientist,Female,Depression
+34,High,Onsite,Project Manager,Female,Depression
+58,Low,Hybrid,Marketing,Male,Depression
+43,Medium,Onsite,Project Manager,Male,Depression
+55,Low,Onsite,Sales,Female,Anxiety
+58,High,Remote,Software Engineer,Male,Burnout
+48,Low,Hybrid,Software Engineer,Male,Depression
+59,High,Onsite,Marketing,Male,Anxiety
+53,Low,Hybrid,Project Manager,Male,Anxiety
+49,Medium,Hybrid,Project Manager,Female,Anxiety
+38,High,Hybrid,Data Scientist,Male,Depression
+51,High,Hybrid,Designer,Female,Burnout
+36,High,Remote,Project Manager,Female,Depression
+59,Low,Onsite,Designer,Male,Anxiety
+47,High,Hybrid,Sales,Female,Burnout
+27,Medium,Remote,Sales,Female,Depression
+29,High,Remote,Designer,Female,Burnout
+60,High,Hybrid,Project Manager,Female,Depression
+53,Low,Onsite,HR,Male,Depression
+27,Low,Hybrid,Sales,Male,Depression
+34,High,Remote,Project Manager,Male,Burnout
+51,Low,Onsite,HR,Male,Depression
+39,Medium,Onsite,HR,Male,Anxiety
+32,Medium,Onsite,Designer,Male,Depression
+44,Medium,Remote,Data Scientist,Male,Depression
+33,Medium,Onsite,HR,Female,Burnout
+28,Medium,Remote,Marketing,Female,Anxiety
+32,Low,Onsite,Marketing,Male,Anxiety
+29,Medium,Remote,Marketing,Male,Anxiety
+47,Low,Onsite,Software Engineer,Male,Depression
+38,High,Hybrid,Data Scientist,Female,Burnout
+35,Medium,Remote,Designer,Male,Depression
+29,Low,Hybrid,Marketing,Male,Burnout
+51,High,Remote,Sales,Male,Depression
+36,High,Onsite,Designer,Male,Depression
+37,Medium,Remote,HR,Male,Burnout
+25,Medium,Hybrid,Designer,Male,Anxiety
+46,Medium,Remote,Marketing,Female,Depression
+24,High,Hybrid,Sales,Male,Depression
+45,Medium,Hybrid,HR,Female,Anxiety
+38,Low,Hybrid,Marketing,Male,Depression
+57,Low,Hybrid,Software Engineer,Male,Burnout
+32,Low,Hybrid,Marketing,Female,Anxiety
+40,Low,Onsite,Marketing,Female,Depression
+49,Medium,Remote,Software Engineer,Female,Depression
+27,Medium,Hybrid,HR,Female,Depression
+24,Low,Hybrid,Data Scientist,Male,Depression
+49,Medium,Hybrid,HR,Female,Burnout
+60,High,Onsite,Designer,Male,Burnout
+30,Low,Remote,Data Scientist,Female,Burnout
+47,Low,Hybrid,HR,Female,Anxiety
+45,High,Hybrid,HR,Male,Depression
+39,Medium,Remote,Marketing,Female,Depression
+59,Medium,Remote,Software Engineer,Male,Burnout
+40,High,Remote,Marketing,Male,Burnout
+57,Medium,Onsite,Software Engineer,Female,Burnout
+53,Low,Remote,Data Scientist,Male,Burnout
+33,Low,Onsite,Data Scientist,Male,Depression
+33,Low,Onsite,Designer,Male,Burnout
+51,Low,Remote,HR,Male,Depression
+27,Medium,Hybrid,Data Scientist,Male,Burnout
+38,Low,Hybrid,Data Scientist,Female,Depression
+24,High,Hybrid,Software Engineer,Male,Anxiety
+53,High,Remote,Data Scientist,Female,Burnout
+49,High,Onsite,Sales,Male,Anxiety
+25,Medium,Hybrid,HR,Male,Burnout
+40,Low,Remote,Designer,Male,Depression
+34,Low,Hybrid,Software Engineer,Female,Depression
+31,Low,Onsite,Software Engineer,Female,Burnout
+36,High,Onsite,Marketing,Male,Burnout
+51,Medium,Remote,HR,Female,Burnout
+45,Low,Hybrid,Sales,Female,Anxiety
+59,High,Onsite,Sales,Female,Anxiety
+29,Medium,Hybrid,Designer,Male,Anxiety
+40,Medium,Onsite,Data Scientist,Female,Anxiety
+51,High,Hybrid,Data Scientist,Female,Burnout
+32,Medium,Remote,Sales,Female,Burnout
+22,High,Onsite,Project Manager,Male,Burnout
+27,Low,Hybrid,Project Manager,Male,Anxiety
+45,Medium,Hybrid,Sales,Female,Anxiety
+56,Low,Remote,Data Scientist,Female,Anxiety
+45,Medium,Remote,Data Scientist,Female,Anxiety
+26,Low,Onsite,Project Manager,Female,Depression
+57,Medium,Hybrid,Project Manager,Male,Burnout
+52,High,Remote,HR,Female,Depression
+59,High,Remote,Project Manager,Female,Depression
+29,Medium,Hybrid,Marketing,Male,Anxiety
+52,Medium,Onsite,Marketing,Female,Depression
+34,Medium,Onsite,Marketing,Female,Anxiety
+51,High,Onsite,Sales,Female,Anxiety
+39,High,Onsite,Software Engineer,Female,Burnout
+25,Low,Remote,Sales,Female,Anxiety
+47,Low,Hybrid,Software Engineer,Male,Burnout
+35,High,Remote,Designer,Male,Anxiety
+60,Medium,Remote,HR,Female,Burnout
+39,Low,Hybrid,HR,Female,Anxiety
+24,Medium,Remote,HR,Female,Depression
+31,High,Remote,Software Engineer,Male,Anxiety
+46,High,Remote,Software Engineer,Female,Anxiety
+50,High,Remote,Data Scientist,Female,Burnout
+42,High,Onsite,Project Manager,Male,Anxiety
+47,Low,Remote,Designer,Male,Burnout
+22,Low,Remote,Software Engineer,Female,Anxiety
+33,Low,Onsite,Sales,Male,Anxiety
+39,Low,Remote,Software Engineer,Male,Anxiety
+56,High,Onsite,Project Manager,Female,Anxiety
+24,Medium,Onsite,Data Scientist,Male,Depression
+24,Low,Onsite,Data Scientist,Male,Depression
+60,Medium,Onsite,Software Engineer,Female,Burnout
+25,High,Hybrid,Software Engineer,Male,Depression
+22,Medium,Remote,Data Scientist,Female,Anxiety
+44,Medium,Onsite,HR,Female,Burnout
+45,Low,Onsite,Sales,Male,Burnout
+23,Medium,Remote,Software Engineer,Female,Anxiety
+53,High,Remote,Sales,Female,Burnout
+25,Low,Remote,HR,Male,Anxiety
+55,High,Remote,Software Engineer,Female,Burnout
+56,High,Remote,HR,Male,Anxiety
+47,High,Onsite,Project Manager,Male,Anxiety
+23,Medium,Hybrid,Marketing,Male,Anxiety
+33,Medium,Hybrid,Software Engineer,Male,Depression
+30,Low,Remote,HR,Male,Burnout
+56,Low,Remote,Software Engineer,Male,Depression
+30,Low,Hybrid,Software Engineer,Female,Anxiety
+37,Low,Onsite,Data Scientist,Female,Burnout
+36,High,Onsite,Data Scientist,Female,Anxiety
+60,Low,Onsite,Designer,Female,Burnout
+30,Medium,Onsite,Sales,Male,Burnout
+59,Low,Onsite,Designer,Female,Depression
+57,High,Hybrid,HR,Male,Burnout
+55,Medium,Hybrid,Sales,Male,Burnout
+55,Medium,Hybrid,HR,Female,Burnout
+46,Low,Remote,Software Engineer,Male,Burnout
+42,Low,Onsite,HR,Male,Anxiety
+38,High,Hybrid,Sales,Male,Anxiety
+53,Medium,Remote,Designer,Male,Depression
+46,Medium,Onsite,Software Engineer,Male,Depression
+59,Medium,Onsite,Software Engineer,Female,Anxiety
+26,Low,Onsite,Data Scientist,Male,Depression
+41,High,Remote,Sales,Male,Burnout
+34,High,Remote,HR,Female,Anxiety
+27,Low,Remote,Software Engineer,Male,Anxiety
+26,Medium,Hybrid,Data Scientist,Male,Anxiety
+50,Medium,Hybrid,Designer,Female,Burnout
+54,Low,Remote,Designer,Male,Anxiety
+25,Medium,Onsite,Data Scientist,Female,Burnout
+58,High,Hybrid,Data Scientist,Female,Depression
+23,High,Hybrid,Project Manager,Female,Depression
+25,Low,Onsite,Data Scientist,Female,Burnout
+57,Medium,Remote,Software Engineer,Male,Depression
+52,Low,Remote,Designer,Male,Depression
+57,Low,Onsite,Sales,Male,Burnout
+30,Low,Remote,Designer,Female,Depression
+42,Medium,Hybrid,Designer,Male,Anxiety
+42,High,Remote,Software Engineer,Male,Depression
+35,Low,Remote,Data Scientist,Male,Depression
+42,Low,Hybrid,Designer,Male,Depression
+29,Low,Hybrid,Designer,Female,Depression
+54,High,Remote,Marketing,Female,Burnout
+50,High,Onsite,HR,Female,Burnout
+59,Medium,Hybrid,Sales,Male,Depression
+43,Low,Hybrid,Marketing,Female,Burnout
+29,Low,Remote,Marketing,Male,Anxiety
+22,High,Hybrid,Designer,Male,Burnout
+31,Medium,Onsite,Software Engineer,Male,Anxiety
+48,Medium,Onsite,Software Engineer,Male,Anxiety
+22,Low,Hybrid,Sales,Male,Burnout
+57,Low,Hybrid,Software Engineer,Female,Burnout
+27,Low,Onsite,Data Scientist,Female,Burnout
+31,Medium,Remote,Designer,Male,Depression
+48,Medium,Onsite,Data Scientist,Female,Depression
+38,Low,Onsite,HR,Female,Burnout
+38,Low,Remote,Marketing,Male,Depression
+52,High,Onsite,Data Scientist,Male,Anxiety
+25,Low,Onsite,Project Manager,Female,Anxiety
+46,Low,Remote,HR,Male,Anxiety
+48,Medium,Hybrid,Marketing,Male,Anxiety
+36,Medium,Hybrid,Marketing,Female,Depression
+51,High,Remote,Designer,Female,Depression
+26,High,Remote,Marketing,Male,Burnout
+26,Medium,Remote,Sales,Male,Burnout
+23,Medium,Hybrid,Project Manager,Male,Anxiety
+50,High,Onsite,Project Manager,Male,Anxiety
+43,High,Remote,Designer,Male,Depression
+54,Low,Remote,HR,Male,Depression
+29,Medium,Remote,Software Engineer,Male,Anxiety
+60,Low,Onsite,Designer,Male,Depression
+51,High,Hybrid,Project Manager,Female,Anxiety
+42,High,Onsite,Project Manager,Female,Depression
+51,Medium,Onsite,Marketing,Male,Depression
+23,Medium,Remote,Marketing,Female,Anxiety
+47,Low,Hybrid,Software Engineer,Female,Burnout
+43,Low,Onsite,Sales,Male,Depression
+45,High,Onsite,Project Manager,Male,Anxiety
+59,Low,Onsite,Data Scientist,Female,Burnout
+30,High,Remote,Designer,Female,Depression
+30,Low,Hybrid,Project Manager,Female,Depression
+48,High,Remote,Data Scientist,Female,Burnout
+46,High,Hybrid,Project Manager,Male,Depression
+59,Low,Onsite,Software Engineer,Male,Depression
+22,High,Hybrid,Marketing,Male,Anxiety
+49,Low,Remote,Designer,Male,Anxiety
+32,Low,Remote,Marketing,Male,Burnout
+28,High,Remote,Sales,Female,Anxiety
+29,High,Remote,Data Scientist,Male,Burnout
+24,Medium,Hybrid,Sales,Female,Anxiety
+46,Low,Onsite,Data Scientist,Female,Anxiety
+42,Low,Remote,Project Manager,Male,Anxiety
+42,Low,Onsite,Designer,Male,Burnout
+59,Low,Hybrid,Project Manager,Male,Anxiety
+39,Medium,Hybrid,Project Manager,Male,Anxiety
+39,High,Hybrid,Designer,Male,Anxiety
+25,Low,Remote,Sales,Male,Depression
+42,High,Remote,Software Engineer,Male,Burnout
+57,High,Hybrid,Software Engineer,Female,Depression
+41,High,Hybrid,Sales,Male,Burnout
+46,Low,Onsite,Designer,Male,Depression
+57,High,Remote,HR,Female,Anxiety
+28,Low,Remote,Software Engineer,Female,Burnout
+55,Medium,Hybrid,Project Manager,Male,Depression
+24,Medium,Hybrid,Project Manager,Female,Anxiety
+38,Low,Onsite,Sales,Male,Burnout
+32,Low,Hybrid,HR,Male,Anxiety
+51,Low,Hybrid,HR,Male,Burnout
+34,Low,Onsite,Sales,Male,Anxiety
+51,Low,Hybrid,Project Manager,Male,Depression
+32,High,Remote,HR,Female,Anxiety
+48,Medium,Hybrid,HR,Female,Burnout
+58,Medium,Hybrid,HR,Male,Burnout
+32,High,Remote,Data Scientist,Male,Burnout
+43,High,Onsite,Software Engineer,Male,Depression
+39,High,Onsite,Software Engineer,Female,Anxiety
+35,High,Hybrid,Sales,Female,Depression
+40,Medium,Hybrid,Sales,Female,Depression
+28,High,Onsite,Sales,Female,Burnout
+24,Low,Onsite,Project Manager,Female,Anxiety
+53,Low,Hybrid,HR,Male,Depression
+36,High,Remote,Sales,Male,Burnout
+43,Low,Remote,Designer,Male,Burnout
+48,Low,Onsite,Marketing,Male,Depression
+43,High,Remote,Designer,Female,Burnout
+25,Medium,Remote,HR,Male,Anxiety
+45,Low,Remote,Marketing,Female,Depression
+24,Low,Onsite,Sales,Male,Burnout
+28,Medium,Onsite,Sales,Male,Anxiety
+59,Medium,Remote,Data Scientist,Female,Anxiety
+59,High,Onsite,HR,Male,Anxiety
+60,Medium,Remote,Marketing,Male,Burnout
+55,Medium,Remote,Sales,Male,Depression
+28,Medium,Hybrid,HR,Female,Depression
+43,Medium,Remote,Data Scientist,Female,Depression
+39,High,Hybrid,HR,Female,Anxiety
+57,High,Remote,Software Engineer,Female,Anxiety
+40,Low,Onsite,Designer,Female,Burnout
+48,Medium,Hybrid,Software Engineer,Female,Burnout
+58,Low,Remote,Data Scientist,Female,Anxiety
+23,Medium,Hybrid,HR,Male,Burnout
+26,Low,Onsite,Sales,Male,Anxiety
+59,High,Onsite,Sales,Male,Depression
+30,High,Remote,Data Scientist,Female,Depression
+40,Medium,Onsite,HR,Male,Anxiety
+32,Medium,Hybrid,Designer,Female,Depression
+53,High,Hybrid,Marketing,Female,Depression
+22,High,Onsite,Software Engineer,Male,Burnout
+45,High,Remote,Data Scientist,Male,Depression
+30,Medium,Hybrid,Software Engineer,Female,Burnout
+33,High,Remote,Marketing,Female,Burnout
+54,Low,Hybrid,HR,Female,Anxiety
+60,Medium,Remote,Data Scientist,Female,Burnout
+51,Medium,Remote,HR,Female,Anxiety
+30,High,Onsite,Project Manager,Female,Depression
+48,Medium,Onsite,Data Scientist,Female,Anxiety
+56,Low,Onsite,Data Scientist,Female,Burnout
+43,Low,Hybrid,Designer,Male,Burnout
+45,High,Hybrid,Marketing,Male,Burnout
+23,Medium,Remote,HR,Female,Burnout
+57,Medium,Hybrid,Sales,Male,Anxiety
+24,Low,Hybrid,Data Scientist,Female,Depression
+43,Low,Remote,HR,Female,Anxiety
+48,Low,Hybrid,Sales,Female,Depression
+45,High,Hybrid,Software Engineer,Male,Anxiety
+31,High,Onsite,Data Scientist,Male,Anxiety
+47,Low,Onsite,Project Manager,Male,Burnout
+56,Medium,Remote,Data Scientist,Female,Depression
+34,Medium,Remote,Project Manager,Male,Depression
+57,Medium,Hybrid,Project Manager,Male,Depression
+37,High,Remote,Designer,Male,Depression
+49,Medium,Onsite,Project Manager,Female,Anxiety
+28,High,Hybrid,Software Engineer,Male,Burnout
+31,Medium,Remote,HR,Female,Depression
+27,High,Hybrid,Sales,Female,Depression
+26,High,Remote,Software Engineer,Female,Depression
+56,Low,Remote,Data Scientist,Male,Depression
+33,High,Hybrid,Project Manager,Female,Burnout
+55,High,Remote,HR,Male,Depression
+27,High,Onsite,Marketing,Male,Burnout
+54,Low,Hybrid,HR,Male,Depression
+32,Medium,Hybrid,Project Manager,Female,Depression
+22,Low,Onsite,Sales,Female,Burnout
+42,High,Onsite,Marketing,Male,Depression
+49,High,Hybrid,Marketing,Female,Anxiety
+25,Medium,Hybrid,Sales,Male,Burnout
+53,Medium,Hybrid,Designer,Male,Depression
+48,Low,Remote,Software Engineer,Male,Depression
+39,High,Onsite,Sales,Male,Anxiety
+23,Low,Onsite,Data Scientist,Female,Burnout
+23,High,Onsite,Data Scientist,Female,Burnout
+27,Medium,Onsite,Sales,Female,Depression
+39,Medium,Remote,Designer,Female,Depression
+51,High,Onsite,Data Scientist,Female,Burnout
+47,Medium,Onsite,Project Manager,Male,Burnout
+42,Medium,Onsite,Project Manager,Male,Burnout
+33,Medium,Hybrid,Project Manager,Male,Anxiety
+54,Medium,Hybrid,Data Scientist,Male,Burnout
+26,Low,Remote,HR,Male,Depression
+42,High,Hybrid,Designer,Female,Anxiety
+29,Medium,Hybrid,Data Scientist,Male,Anxiety
+54,Low,Hybrid,Marketing,Female,Anxiety
+48,Low,Onsite,Data Scientist,Male,Burnout
+60,Medium,Hybrid,Designer,Female,Anxiety
+46,Medium,Remote,HR,Female,Burnout
+57,Low,Remote,Project Manager,Male,Anxiety
+26,Medium,Onsite,Project Manager,Male,Burnout
+50,High,Remote,HR,Female,Anxiety
+46,Low,Remote,Sales,Female,Anxiety
+27,Low,Onsite,Sales,Male,Burnout
+27,Medium,Onsite,Data Scientist,Male,Burnout
+35,Low,Remote,Project Manager,Female,Depression
+42,Medium,Onsite,Data Scientist,Male,Anxiety
+46,Low,Hybrid,Data Scientist,Male,Anxiety
+58,Low,Onsite,Marketing,Male,Anxiety
+44,High,Onsite,Marketing,Female,Anxiety
+53,Low,Onsite,Data Scientist,Male,Depression
+25,Medium,Onsite,Data Scientist,Male,Depression
+32,High,Hybrid,Designer,Female,Anxiety
+58,Low,Remote,Sales,Female,Depression
+57,Low,Remote,Marketing,Male,Depression
+25,Medium,Onsite,HR,Male,Depression
+59,Low,Remote,Project Manager,Female,Burnout
+53,Low,Hybrid,Project Manager,Female,Burnout
+55,Low,Hybrid,Data Scientist,Male,Anxiety
+35,High,Onsite,Sales,Female,Depression
+50,Medium,Onsite,Marketing,Male,Anxiety
+27,Low,Hybrid,HR,Female,Burnout
+34,High,Onsite,Designer,Male,Anxiety
+42,Medium,Hybrid,HR,Female,Burnout
+50,Medium,Hybrid,Software Engineer,Female,Burnout
+54,Low,Hybrid,Designer,Female,Anxiety
+37,Low,Onsite,Designer,Female,Depression
+22,Low,Onsite,Data Scientist,Female,Anxiety
+53,Low,Remote,Marketing,Female,Depression
+53,Low,Remote,Designer,Female,Burnout
+43,Medium,Onsite,Marketing,Female,Burnout
+53,High,Hybrid,Project Manager,Female,Depression
+34,Medium,Onsite,Project Manager,Male,Burnout
+33,Low,Remote,Designer,Male,Burnout
+58,High,Remote,Designer,Male,Burnout
+46,High,Hybrid,Data Scientist,Female,Burnout
+36,Medium,Remote,HR,Male,Burnout
+53,Low,Hybrid,Project Manager,Female,Depression
+25,Medium,Onsite,Data Scientist,Female,Depression
+26,Medium,Remote,Sales,Male,Burnout
+38,Low,Onsite,Software Engineer,Female,Depression
+26,High,Remote,Marketing,Male,Anxiety
+51,Medium,Remote,Software Engineer,Male,Anxiety
+58,Medium,Hybrid,Designer,Female,Burnout
+38,High,Onsite,Sales,Female,Burnout
+52,Medium,Remote,Sales,Male,Depression
+52,Medium,Onsite,Project Manager,Male,Depression
+23,Low,Remote,HR,Male,Depression
+43,Low,Hybrid,Sales,Male,Burnout
+54,Low,Hybrid,HR,Male,Burnout
+53,Low,Remote,Marketing,Female,Depression
+58,Low,Onsite,Marketing,Male,Anxiety
+40,High,Remote,Project Manager,Female,Burnout
+34,High,Hybrid,Designer,Female,Burnout
+48,Low,Onsite,Data Scientist,Female,Depression
+34,Low,Hybrid,HR,Female,Depression
+41,Low,Onsite,HR,Male,Anxiety
+41,Low,Hybrid,Sales,Female,Burnout
+22,Medium,Hybrid,Sales,Male,Anxiety
+27,Low,Onsite,HR,Male,Anxiety
+46,High,Onsite,Marketing,Male,Anxiety
+42,Low,Hybrid,Sales,Male,Anxiety
+33,Low,Hybrid,Data Scientist,Male,Burnout
+25,Medium,Hybrid,Designer,Female,Depression
+46,High,Onsite,Marketing,Female,Anxiety
+32,Medium,Onsite,Designer,Female,Anxiety
+52,Medium,Onsite,Sales,Female,Depression
+25,Medium,Onsite,Sales,Female,Depression
+47,Medium,Hybrid,Data Scientist,Male,Depression
+24,Low,Remote,Marketing,Female,Anxiety
+33,Medium,Onsite,Designer,Female,Depression
+22,High,Hybrid,Marketing,Male,Depression
+35,High,Onsite,Marketing,Female,Burnout
+23,Low,Onsite,Data Scientist,Male,Anxiety
+46,Medium,Onsite,Sales,Male,Burnout
+24,High,Remote,Designer,Female,Burnout
+55,Low,Hybrid,Sales,Female,Burnout
+24,High,Hybrid,Software Engineer,Female,Burnout
+48,Medium,Remote,Sales,Male,Burnout
+52,Low,Remote,Data Scientist,Female,Burnout
+57,Low,Hybrid,Sales,Female,Burnout
+52,Medium,Remote,Software Engineer,Male,Depression
+55,High,Onsite,Marketing,Male,Depression
+50,Low,Remote,HR,Male,Anxiety
+54,Low,Remote,Project Manager,Female,Burnout
+47,Medium,Hybrid,HR,Female,Burnout
+33,High,Remote,Designer,Female,Depression
+38,Low,Remote,Project Manager,Female,Burnout
+47,High,Hybrid,Project Manager,Male,Anxiety
+29,Low,Onsite,Project Manager,Male,Anxiety
+50,Medium,Remote,Sales,Male,Burnout
+26,Medium,Onsite,Data Scientist,Female,Burnout
+47,Medium,Hybrid,Sales,Male,Depression
+39,Low,Onsite,Software Engineer,Male,Depression
+51,Low,Onsite,Software Engineer,Male,Burnout
+48,Low,Onsite,Project Manager,Female,Burnout
+32,Medium,Onsite,Marketing,Female,Burnout
+47,Low,Hybrid,Project Manager,Female,Depression
+52,High,Hybrid,Designer,Female,Burnout
+55,Medium,Remote,Marketing,Male,Anxiety
+60,High,Onsite,Project Manager,Male,Burnout
+52,Medium,Onsite,Designer,Female,Depression
+30,Low,Remote,Designer,Male,Burnout
+32,Medium,Onsite,Data Scientist,Male,Burnout
+31,High,Hybrid,Software Engineer,Male,Burnout
+60,Medium,Onsite,Software Engineer,Female,Burnout
+44,Low,Hybrid,Software Engineer,Male,Depression
+22,Low,Remote,Marketing,Female,Depression
+49,Medium,Remote,Data Scientist,Female,Burnout
+26,Low,Onsite,Data Scientist,Male,Anxiety
+42,Medium,Onsite,Data Scientist,Female,Burnout
+46,Medium,Onsite,Designer,Male,Anxiety
+57,High,Remote,Data Scientist,Male,Depression
+50,High,Onsite,Data Scientist,Female,Depression
+31,High,Onsite,Designer,Male,Depression
+56,Low,Hybrid,Software Engineer,Male,Depression
+31,Medium,Onsite,Project Manager,Female,Anxiety
+47,High,Remote,Sales,Female,Anxiety
+25,High,Remote,Designer,Female,Anxiety
+26,Medium,Remote,Project Manager,Female,Anxiety
+31,Medium,Hybrid,HR,Female,Burnout
+41,Low,Hybrid,Data Scientist,Female,Anxiety
+30,Low,Remote,Project Manager,Male,Burnout
+34,High,Hybrid,HR,Female,Burnout
+25,Medium,Remote,Data Scientist,Male,Depression
+49,Medium,Hybrid,Sales,Female,Depression
+59,Low,Hybrid,Data Scientist,Male,Burnout
+48,High,Onsite,HR,Male,Depression
+54,High,Remote,Data Scientist,Male,Depression
+54,High,Hybrid,Project Manager,Female,Anxiety
+51,Low,Hybrid,Data Scientist,Male,Burnout
+44,Medium,Remote,Project Manager,Female,Anxiety
+29,Low,Remote,Designer,Male,Anxiety
+34,High,Hybrid,Designer,Male,Depression
+52,Medium,Remote,HR,Female,Anxiety
+58,Medium,Remote,Sales,Female,Depression
+22,Medium,Onsite,Software Engineer,Female,Depression
+33,Low,Remote,Project Manager,Male,Burnout
+26,Medium,Onsite,Designer,Male,Burnout
+29,Medium,Remote,Project Manager,Male,Anxiety
+24,Medium,Onsite,Sales,Female,Anxiety
+49,Low,Remote,Data Scientist,Male,Burnout
+54,Medium,Remote,Project Manager,Male,Burnout
+25,Medium,Remote,Data Scientist,Female,Depression
+35,Medium,Onsite,Sales,Male,Burnout
+37,Medium,Remote,Software Engineer,Female,Burnout
+58,High,Onsite,Marketing,Female,Burnout
+37,High,Remote,Marketing,Female,Anxiety
+22,High,Remote,Marketing,Male,Depression
+37,Low,Hybrid,HR,Female,Depression
+45,Medium,Remote,Project Manager,Male,Depression
+35,High,Remote,Software Engineer,Male,Anxiety
+42,Medium,Remote,Project Manager,Male,Depression
+55,Medium,Onsite,Project Manager,Male,Depression
+42,High,Onsite,HR,Male,Anxiety
+27,Low,Remote,Software Engineer,Male,Anxiety
+58,High,Hybrid,Sales,Male,Depression
+22,Low,Onsite,Data Scientist,Female,Burnout
+30,Low,Hybrid,Software Engineer,Female,Burnout
+47,High,Hybrid,Software Engineer,Female,Anxiety
+54,High,Remote,Software Engineer,Male,Depression
+47,High,Hybrid,Project Manager,Female,Depression
+52,Medium,Remote,Designer,Male,Anxiety
+33,High,Remote,Data Scientist,Female,Burnout
+36,High,Remote,Software Engineer,Female,Anxiety
+33,Low,Onsite,Data Scientist,Female,Depression
+51,High,Hybrid,Marketing,Male,Depression
+26,High,Onsite,Designer,Male,Burnout
+48,Low,Onsite,Designer,Female,Depression
+37,High,Hybrid,Sales,Male,Depression
+49,Medium,Remote,Designer,Female,Burnout
+52,High,Remote,Data Scientist,Female,Burnout
+26,Medium,Onsite,Marketing,Female,Burnout
+39,Medium,Onsite,Data Scientist,Female,Burnout
+53,Low,Onsite,HR,Female,Anxiety
+24,Medium,Remote,Data Scientist,Male,Depression
+33,Medium,Hybrid,Project Manager,Female,Burnout
+58,High,Hybrid,Data Scientist,Male,Burnout
+49,Medium,Hybrid,Marketing,Male,Anxiety
+22,Medium,Onsite,Software Engineer,Male,Anxiety
+51,Low,Onsite,Marketing,Male,Burnout
+34,Medium,Remote,HR,Female,Anxiety
+49,Medium,Onsite,Designer,Male,Anxiety
+52,High,Remote,Marketing,Female,Burnout
+50,High,Onsite,Sales,Male,Anxiety
+33,Medium,Onsite,Marketing,Female,Anxiety
+23,Medium,Onsite,Software Engineer,Male,Depression
+31,Medium,Hybrid,Marketing,Female,Burnout
+51,Low,Hybrid,Data Scientist,Male,Anxiety
+43,High,Onsite,Data Scientist,Male,Burnout
+53,High,Remote,Designer,Male,Depression
+36,Low,Onsite,HR,Male,Anxiety
+28,High,Hybrid,Data Scientist,Male,Depression
+35,Low,Onsite,Sales,Male,Anxiety
+55,High,Hybrid,Sales,Male,Burnout
+32,High,Onsite,Project Manager,Male,Depression
+22,Medium,Onsite,Marketing,Male,Anxiety
+34,Medium,Onsite,Software Engineer,Male,Depression
+31,Medium,Hybrid,Data Scientist,Female,Anxiety
+47,High,Hybrid,HR,Female,Anxiety
+25,Medium,Hybrid,Software Engineer,Male,Anxiety
+53,Medium,Remote,Designer,Female,Burnout
+36,Low,Remote,Data Scientist,Female,Burnout
+40,High,Remote,Software Engineer,Female,Depression
+33,Low,Remote,Data Scientist,Male,Burnout
+43,High,Hybrid,Designer,Male,Anxiety
+53,Low,Onsite,Designer,Female,Anxiety
+27,Low,Hybrid,Sales,Female,Anxiety
+46,Medium,Onsite,HR,Male,Depression
+47,Medium,Hybrid,Designer,Female,Anxiety
+34,Medium,Hybrid,HR,Male,Burnout
+50,Low,Remote,Data Scientist,Male,Burnout
+28,Medium,Onsite,Software Engineer,Male,Anxiety
+35,Medium,Hybrid,Sales,Male,Anxiety
+45,High,Onsite,Software Engineer,Female,Burnout
+22,High,Remote,Project Manager,Male,Anxiety
+54,High,Onsite,Project Manager,Female,Anxiety
+35,High,Remote,Data Scientist,Female,Anxiety
+29,Medium,Remote,Marketing,Male,Burnout
+39,Low,Hybrid,Sales,Male,Burnout
+29,Low,Hybrid,Software Engineer,Male,Depression
+38,Low,Hybrid,Project Manager,Female,Burnout
+34,Medium,Remote,Data Scientist,Male,Depression
+36,Low,Hybrid,Data Scientist,Female,Anxiety
+41,Low,Onsite,Project Manager,Female,Burnout
+22,Medium,Hybrid,Sales,Male,Anxiety
+48,Medium,Hybrid,HR,Male,Depression
+58,Low,Hybrid,HR,Male,Burnout
+37,High,Hybrid,Data Scientist,Male,Anxiety
+47,Low,Onsite,Designer,Female,Burnout
+34,Medium,Hybrid,Project Manager,Female,Depression
+49,Medium,Remote,Software Engineer,Female,Anxiety
+53,High,Remote,Data Scientist,Female,Anxiety
+38,High,Remote,Designer,Male,Depression
+47,High,Onsite,HR,Male,Depression
+38,High,Hybrid,Software Engineer,Female,Burnout
+27,Low,Remote,Software Engineer,Male,Burnout
+46,Low,Remote,Data Scientist,Female,Depression
+57,Medium,Remote,Software Engineer,Female,Burnout
+36,Low,Onsite,Designer,Male,Depression
+31,High,Onsite,Project Manager,Female,Anxiety
+48,Low,Hybrid,Project Manager,Female,Anxiety
+23,Low,Hybrid,Designer,Female,Burnout
+47,Medium,Onsite,HR,Male,Depression
+25,High,Onsite,Marketing,Male,Depression
+58,Medium,Hybrid,Designer,Female,Anxiety
+28,Low,Remote,Data Scientist,Female,Burnout
+47,High,Remote,HR,Female,Anxiety
+23,High,Onsite,Data Scientist,Female,Anxiety
+31,High,Remote,Data Scientist,Male,Anxiety
+45,Low,Onsite,HR,Male,Depression
+30,Medium,Hybrid,Software Engineer,Male,Depression
+31,High,Remote,Marketing,Female,Anxiety
+30,High,Remote,Marketing,Female,Burnout
+23,High,Hybrid,Software Engineer,Female,Depression
+60,High,Onsite,HR,Female,Burnout
+49,High,Onsite,Sales,Male,Burnout
+32,Low,Onsite,Project Manager,Male,Anxiety
+26,Low,Remote,Project Manager,Female,Depression
+37,Medium,Hybrid,Sales,Male,Depression
+60,Low,Onsite,HR,Female,Burnout
+25,High,Hybrid,Software Engineer,Female,Depression
+33,Low,Onsite,Designer,Male,Burnout
+29,Medium,Hybrid,HR,Female,Depression
+24,High,Onsite,Project Manager,Male,Anxiety
+22,Medium,Remote,Software Engineer,Female,Anxiety
+39,High,Hybrid,Designer,Male,Burnout
+36,High,Remote,Designer,Male,Anxiety
+37,Medium,Onsite,Designer,Female,Burnout
+48,Medium,Onsite,Software Engineer,Male,Depression
+45,Medium,Remote,Marketing,Male,Anxiety
+51,High,Remote,Designer,Male,Anxiety
+36,Medium,Remote,Designer,Male,Burnout
+48,High,Remote,Marketing,Male,Anxiety
+53,High,Hybrid,Sales,Female,Burnout
+37,Medium,Remote,Marketing,Male,Anxiety
+58,High,Remote,Sales,Female,Anxiety
+48,Low,Hybrid,Marketing,Female,Depression
+60,Low,Hybrid,HR,Male,Anxiety
+60,Medium,Hybrid,Marketing,Male,Burnout
+42,Low,Hybrid,Software Engineer,Female,Depression
+59,Low,Onsite,Designer,Female,Depression
+28,High,Hybrid,Designer,Female,Burnout
+46,High,Onsite,Marketing,Female,Burnout
+53,High,Onsite,Data Scientist,Female,Anxiety
+53,Low,Remote,Designer,Male,Depression
+23,Medium,Remote,Sales,Male,Depression
+41,Medium,Hybrid,Project Manager,Male,Depression
+48,Medium,Onsite,Marketing,Female,Anxiety
+33,Medium,Onsite,Software Engineer,Male,Depression
+54,Low,Hybrid,Software Engineer,Female,Burnout
+52,Medium,Remote,Data Scientist,Female,Depression
+33,Low,Hybrid,Marketing,Male,Burnout
+56,High,Hybrid,Designer,Female,Depression
+35,Low,Hybrid,Data Scientist,Female,Depression
+37,High,Hybrid,Project Manager,Female,Anxiety
+45,Low,Onsite,HR,Male,Depression
+55,High,Remote,HR,Female,Anxiety
+44,Low,Onsite,Data Scientist,Male,Anxiety
+22,High,Remote,Sales,Male,Depression
+22,High,Hybrid,HR,Female,Burnout
+34,Medium,Onsite,HR,Female,Depression
+51,High,Hybrid,Software Engineer,Female,Burnout
+32,Medium,Onsite,Software Engineer,Male,Anxiety
+39,Low,Remote,Marketing,Female,Depression
+55,Low,Hybrid,Data Scientist,Male,Anxiety
+33,High,Onsite,Software Engineer,Male,Anxiety
+50,High,Onsite,Project Manager,Female,Depression
+40,Low,Remote,HR,Female,Depression
+42,High,Hybrid,Designer,Female,Depression
+30,Low,Remote,Sales,Male,Anxiety
+30,Medium,Remote,HR,Female,Anxiety
+54,Low,Remote,Sales,Male,Anxiety
+55,High,Onsite,Project Manager,Male,Burnout
+59,Medium,Remote,Sales,Female,Depression
+29,High,Hybrid,Project Manager,Male,Anxiety
+57,High,Onsite,Sales,Female,Depression
+40,Medium,Remote,Project Manager,Male,Burnout
+25,Medium,Remote,Project Manager,Male,Anxiety
+41,High,Onsite,Software Engineer,Female,Anxiety
+50,Low,Remote,Software Engineer,Male,Burnout
+57,Low,Remote,Sales,Female,Depression
+56,Medium,Onsite,Sales,Male,Depression
+35,High,Onsite,Software Engineer,Male,Burnout
+24,High,Hybrid,HR,Male,Burnout
+36,High,Onsite,HR,Female,Anxiety
+32,Medium,Remote,Project Manager,Female,Depression
+30,Low,Hybrid,Data Scientist,Female,Depression
+46,Low,Remote,Marketing,Male,Depression
+32,Medium,Onsite,HR,Male,Depression
+45,High,Hybrid,Sales,Male,Depression
+44,Medium,Onsite,Data Scientist,Male,Anxiety
+51,High,Onsite,HR,Female,Burnout
+53,Low,Onsite,Software Engineer,Female,Depression
+27,Medium,Hybrid,Sales,Male,Depression
+56,High,Remote,Software Engineer,Male,Depression
+42,Medium,Hybrid,HR,Female,Burnout
+50,Medium,Onsite,Marketing,Female,Anxiety
+43,Medium,Remote,Data Scientist,Female,Anxiety
+37,High,Onsite,Software Engineer,Male,Depression
+23,Medium,Hybrid,Marketing,Female,Anxiety
+46,High,Remote,Data Scientist,Male,Burnout
+25,High,Hybrid,HR,Female,Depression
+46,High,Hybrid,Project Manager,Female,Anxiety
+43,High,Hybrid,Data Scientist,Female,Anxiety
+41,Low,Hybrid,Designer,Female,Burnout
+31,High,Remote,HR,Female,Burnout
+34,Medium,Onsite,Data Scientist,Female,Burnout
+60,Low,Remote,HR,Male,Anxiety
+27,Medium,Remote,HR,Male,Burnout
+52,Low,Remote,Data Scientist,Male,Anxiety
+57,Medium,Hybrid,Designer,Female,Burnout
+43,High,Hybrid,Marketing,Female,Anxiety
+36,Medium,Onsite,Designer,Female,Depression
+57,High,Hybrid,Project Manager,Female,Depression
+60,Low,Onsite,Marketing,Female,Anxiety
+25,Low,Hybrid,Data Scientist,Male,Burnout
+25,Medium,Hybrid,Data Scientist,Male,Burnout
+23,Medium,Onsite,HR,Female,Anxiety
+60,Medium,Hybrid,Software Engineer,Female,Anxiety
+51,Low,Hybrid,Software Engineer,Female,Depression
+35,High,Remote,Marketing,Female,Burnout
+48,High,Remote,Marketing,Male,Anxiety
+49,Low,Onsite,Software Engineer,Female,Burnout
+27,Medium,Onsite,HR,Female,Anxiety
+40,High,Onsite,HR,Female,Burnout
+52,High,Remote,HR,Female,Depression
+43,High,Hybrid,HR,Female,Burnout
+28,Medium,Hybrid,Sales,Male,Burnout
+44,High,Hybrid,Marketing,Female,Anxiety
+49,Medium,Onsite,Sales,Male,Depression
+56,Medium,Remote,Designer,Female,Burnout
+37,Low,Hybrid,Sales,Female,Depression
+33,Medium,Hybrid,Project Manager,Female,Depression
+43,High,Hybrid,Marketing,Male,Depression
+49,High,Onsite,Marketing,Female,Depression
+24,Medium,Onsite,HR,Male,Anxiety
+48,Low,Hybrid,HR,Male,Anxiety
+30,Medium,Hybrid,Software Engineer,Female,Anxiety
+52,Medium,Hybrid,Project Manager,Female,Anxiety
+59,High,Remote,Marketing,Male,Burnout
+29,Low,Hybrid,Designer,Male,Depression
+26,Low,Onsite,Sales,Male,Anxiety
+25,High,Remote,HR,Female,Depression
+42,Medium,Hybrid,Designer,Male,Depression
+59,High,Remote,HR,Male,Depression
+57,Medium,Remote,HR,Female,Burnout
+36,Medium,Hybrid,HR,Female,Depression
+41,Low,Onsite,Data Scientist,Female,Burnout
+47,High,Onsite,Data Scientist,Male,Depression
+50,Low,Onsite,Sales,Male,Anxiety
+39,Medium,Remote,Sales,Male,Anxiety
+45,High,Hybrid,Data Scientist,Female,Anxiety
+44,Low,Hybrid,Marketing,Female,Depression
+53,Low,Onsite,Marketing,Female,Depression
+42,High,Remote,Software Engineer,Male,Burnout
+52,High,Remote,Marketing,Female,Depression
+44,High,Onsite,Sales,Female,Depression
+57,Low,Hybrid,Software Engineer,Male,Depression
+47,Medium,Hybrid,HR,Male,Burnout
+31,High,Onsite,HR,Female,Burnout
+58,High,Hybrid,Sales,Female,Depression
+24,Medium,Remote,Project Manager,Female,Burnout
+42,Low,Remote,HR,Female,Depression
+59,Medium,Onsite,HR,Female,Depression
+33,Medium,Onsite,Software Engineer,Male,Depression
+51,Medium,Remote,Data Scientist,Female,Burnout
+59,High,Hybrid,Designer,Female,Depression
+40,Medium,Onsite,Marketing,Male,Depression
+29,High,Remote,Software Engineer,Male,Anxiety
+22,High,Onsite,Sales,Female,Burnout
+22,Medium,Remote,Project Manager,Female,Depression
+48,Low,Remote,Software Engineer,Male,Anxiety
+40,High,Remote,Data Scientist,Female,Anxiety
+29,Low,Remote,HR,Female,Depression
+36,Medium,Hybrid,Designer,Female,Depression
+43,Low,Remote,Designer,Female,Depression
+60,High,Remote,Project Manager,Female,Anxiety
+53,Medium,Onsite,Project Manager,Male,Depression
+49,Low,Hybrid,Data Scientist,Female,Burnout
+44,High,Onsite,HR,Female,Burnout
+36,Low,Remote,Software Engineer,Male,Burnout
+37,Medium,Remote,Designer,Female,Anxiety
+39,Medium,Remote,Project Manager,Female,Burnout
+34,Low,Onsite,Data Scientist,Female,Burnout
+33,High,Remote,Marketing,Male,Depression
+24,Medium,Hybrid,Designer,Female,Burnout
+36,Medium,Hybrid,Project Manager,Female,Anxiety
+50,Medium,Remote,Marketing,Male,Burnout
+34,High,Remote,Marketing,Male,Burnout
+51,High,Hybrid,Designer,Female,Depression
+40,Low,Remote,Data Scientist,Female,Burnout
+53,High,Onsite,HR,Female,Anxiety
+22,Medium,Onsite,Marketing,Female,Depression
+32,Medium,Onsite,HR,Female,Depression
+53,High,Remote,Project Manager,Female,Anxiety
+54,High,Onsite,Marketing,Male,Burnout
+29,Low,Onsite,HR,Male,Depression
+56,Low,Remote,Designer,Male,Depression
+45,High,Hybrid,Data Scientist,Male,Burnout
+32,Medium,Onsite,Designer,Male,Burnout
+52,High,Hybrid,Designer,Female,Depression
+44,Medium,Remote,HR,Male,Depression
+43,Low,Onsite,Sales,Male,Depression
+31,High,Onsite,Software Engineer,Female,Depression
+57,High,Remote,Software Engineer,Female,Depression
+53,High,Remote,Data Scientist,Female,Burnout
+39,Medium,Onsite,Data Scientist,Male,Anxiety
+39,High,Onsite,Project Manager,Male,Burnout
+27,Low,Remote,Marketing,Female,Anxiety
+36,Medium,Onsite,Sales,Female,Anxiety
+49,Medium,Onsite,Data Scientist,Male,Depression
+40,High,Hybrid,Software Engineer,Female,Anxiety
+27,Low,Hybrid,Project Manager,Female,Depression
+44,Low,Remote,Marketing,Female,Burnout
+57,High,Onsite,Software Engineer,Male,Burnout
+53,Medium,Remote,Software Engineer,Female,Depression
+58,Medium,Remote,HR,Female,Depression
+31,Low,Hybrid,HR,Male,Anxiety
+44,High,Remote,Sales,Male,Anxiety
+43,High,Remote,HR,Male,Depression
+30,Low,Remote,Project Manager,Male,Burnout
+45,High,Remote,Data Scientist,Female,Anxiety
+48,Low,Hybrid,Software Engineer,Female,Anxiety
+36,High,Remote,Software Engineer,Male,Depression
+39,High,Remote,Data Scientist,Male,Anxiety
+46,Medium,Remote,Project Manager,Male,Burnout
+35,Low,Hybrid,Project Manager,Female,Depression
+26,High,Remote,Sales,Male,Anxiety
+23,Medium,Remote,Data Scientist,Female,Burnout
+26,Low,Onsite,Sales,Female,Burnout
+27,Medium,Onsite,Data Scientist,Female,Depression
+50,Medium,Onsite,Designer,Male,Burnout
+28,High,Onsite,Marketing,Female,Anxiety
+48,Medium,Onsite,HR,Male,Depression
+40,High,Remote,Project Manager,Female,Anxiety
+60,Medium,Remote,Sales,Male,Anxiety
+48,Medium,Onsite,Marketing,Female,Burnout
+43,Medium,Hybrid,HR,Male,Burnout
+37,High,Onsite,Data Scientist,Female,Anxiety
+53,Low,Remote,Software Engineer,Female,Burnout
+29,High,Hybrid,HR,Male,Burnout
+41,Low,Onsite,Project Manager,Male,Burnout
+31,Low,Remote,Sales,Female,Depression
+45,High,Hybrid,HR,Male,Anxiety
+27,Low,Remote,Marketing,Male,Depression
+22,High,Remote,HR,Male,Anxiety
+60,High,Onsite,Data Scientist,Female,Anxiety
+55,Medium,Remote,Project Manager,Male,Anxiety
+39,High,Remote,HR,Male,Depression
+23,Medium,Onsite,Project Manager,Male,Depression
+28,Medium,Hybrid,HR,Male,Anxiety
+41,Medium,Onsite,Project Manager,Female,Depression
+59,Low,Onsite,HR,Male,Burnout
+37,Medium,Remote,Data Scientist,Male,Anxiety
+33,High,Hybrid,Sales,Female,Anxiety
+32,Medium,Remote,Software Engineer,Male,Burnout
+39,High,Remote,Project Manager,Male,Anxiety
+58,Low,Hybrid,HR,Female,Burnout
+53,Medium,Remote,Marketing,Male,Anxiety
+41,High,Hybrid,HR,Female,Burnout
+28,High,Remote,Sales,Male,Depression
+37,Medium,Onsite,Designer,Female,Depression
+27,High,Remote,Software Engineer,Female,Depression
+49,High,Onsite,Marketing,Female,Anxiety
+31,Low,Onsite,Project Manager,Male,Depression
+34,Medium,Remote,Software Engineer,Female,Anxiety
+42,Medium,Onsite,HR,Male,Burnout
+51,Low,Onsite,HR,Male,Burnout
+25,Medium,Hybrid,Software Engineer,Female,Depression
+44,High,Remote,HR,Female,Depression
+25,High,Onsite,Sales,Female,Anxiety
+44,Medium,Hybrid,Designer,Female,Anxiety
+29,Low,Hybrid,HR,Female,Depression
+56,Medium,Onsite,Software Engineer,Male,Depression
+42,High,Onsite,Project Manager,Male,Anxiety
+41,Low,Onsite,Sales,Female,Burnout
+33,Low,Onsite,Project Manager,Female,Depression
+25,Low,Remote,Sales,Male,Anxiety
+56,High,Hybrid,Sales,Female,Burnout
+30,High,Onsite,Sales,Male,Anxiety
+44,Low,Onsite,Sales,Male,Burnout
+44,Medium,Remote,HR,Female,Anxiety
+26,Low,Remote,Data Scientist,Female,Anxiety
+45,Low,Onsite,Data Scientist,Male,Burnout
+28,High,Onsite,Project Manager,Female,Depression
+25,High,Hybrid,Marketing,Female,Depression
+43,High,Remote,Marketing,Male,Depression
+48,Low,Onsite,Marketing,Male,Burnout
+57,Medium,Onsite,Data Scientist,Female,Burnout
+28,High,Remote,Designer,Female,Burnout
+57,Low,Onsite,HR,Female,Burnout
+25,Low,Onsite,HR,Female,Anxiety
+49,High,Onsite,Designer,Female,Depression
+38,High,Remote,Project Manager,Female,Burnout
+33,High,Remote,Software Engineer,Female,Depression
+34,Low,Remote,Software Engineer,Male,Burnout
+22,High,Hybrid,HR,Male,Depression
+44,Low,Remote,Data Scientist,Female,Anxiety
+39,Medium,Onsite,Marketing,Female,Depression
+23,Low,Hybrid,Project Manager,Female,Depression
+28,High,Onsite,Sales,Female,Depression
+23,Low,Remote,Data Scientist,Male,Burnout
+57,High,Onsite,Designer,Male,Burnout
+40,Medium,Onsite,Project Manager,Female,Burnout
+45,Low,Onsite,Project Manager,Male,Burnout
+53,High,Remote,HR,Male,Burnout
+49,Medium,Hybrid,Project Manager,Female,Depression
+30,Medium,Remote,Designer,Male,Depression
+56,Medium,Onsite,Project Manager,Female,Burnout
+56,Low,Onsite,Data Scientist,Male,Burnout
+27,Medium,Hybrid,Marketing,Male,Depression
+40,Low,Hybrid,Designer,Female,Burnout
+49,Medium,Hybrid,Software Engineer,Female,Depression
+47,Medium,Remote,HR,Male,Depression
+36,Medium,Onsite,Data Scientist,Male,Burnout
+60,Low,Remote,HR,Male,Anxiety
+26,High,Hybrid,HR,Male,Burnout
+57,Low,Remote,Data Scientist,Female,Burnout
+27,Low,Hybrid,Marketing,Male,Depression
+31,Low,Hybrid,Sales,Female,Anxiety
+60,Medium,Remote,Sales,Female,Anxiety
+50,Medium,Onsite,Project Manager,Male,Anxiety
+43,Low,Onsite,Software Engineer,Male,Anxiety
+37,High,Hybrid,HR,Female,Depression
+44,Low,Hybrid,Project Manager,Male,Anxiety
+29,Low,Onsite,HR,Male,Anxiety
+54,Low,Remote,Sales,Female,Anxiety
+25,High,Remote,Sales,Male,Anxiety
+38,Medium,Remote,Designer,Female,Anxiety
+22,High,Hybrid,Software Engineer,Female,Depression
+44,Low,Remote,Sales,Male,Anxiety
+39,High,Hybrid,HR,Female,Depression
+52,Medium,Hybrid,HR,Male,Burnout
+29,High,Remote,Marketing,Female,Anxiety
+26,Medium,Onsite,Marketing,Male,Burnout
+47,High,Remote,Project Manager,Female,Anxiety
+40,Low,Remote,Project Manager,Male,Burnout
+53,High,Hybrid,Marketing,Female,Anxiety
+23,Medium,Onsite,Sales,Male,Depression
+59,Low,Hybrid,Marketing,Male,Anxiety
+37,Low,Onsite,HR,Male,Anxiety
+24,High,Hybrid,Project Manager,Male,Depression
+34,High,Remote,Designer,Male,Burnout
+28,High,Onsite,Project Manager,Male,Burnout
+43,Medium,Remote,HR,Male,Burnout
+41,Low,Onsite,Designer,Male,Anxiety
+36,Medium,Remote,HR,Female,Burnout
+58,Low,Remote,Software Engineer,Female,Anxiety
+28,High,Onsite,Software Engineer,Female,Burnout
+42,High,Onsite,HR,Male,Burnout
+49,Medium,Remote,Project Manager,Male,Depression
+37,Low,Hybrid,Sales,Female,Anxiety
+37,Low,Hybrid,Data Scientist,Male,Depression
+59,High,Hybrid,Data Scientist,Female,Anxiety
+54,Medium,Onsite,Data Scientist,Female,Anxiety
+38,High,Hybrid,Marketing,Male,Anxiety
+55,High,Onsite,Designer,Female,Anxiety
+22,Medium,Hybrid,Marketing,Male,Depression
+33,Low,Remote,Project Manager,Male,Burnout
+47,High,Hybrid,Marketing,Male,Burnout
+59,Low,Onsite,HR,Female,Burnout
+25,High,Hybrid,Data Scientist,Female,Depression
+42,Low,Remote,Marketing,Male,Anxiety
+34,Medium,Hybrid,Project Manager,Female,Burnout
+23,Medium,Hybrid,Data Scientist,Male,Anxiety
+59,Medium,Hybrid,Marketing,Male,Burnout
+58,Low,Hybrid,Data Scientist,Female,Depression
+55,Medium,Onsite,Data Scientist,Male,Anxiety
+50,Low,Onsite,Marketing,Male,Burnout
+47,Medium,Onsite,HR,Male,Depression
+47,High,Onsite,Marketing,Male,Burnout
+30,High,Onsite,Project Manager,Male,Anxiety
+27,High,Remote,HR,Male,Depression
+48,Medium,Hybrid,HR,Female,Burnout
+28,Medium,Remote,Sales,Female,Anxiety
+25,Medium,Hybrid,Designer,Male,Depression
+30,Low,Remote,Designer,Female,Burnout
+55,High,Onsite,Designer,Male,Burnout
+43,Medium,Onsite,HR,Male,Burnout
+23,High,Remote,Sales,Male,Anxiety
+42,Low,Onsite,Designer,Female,Depression
+39,Medium,Hybrid,Sales,Male,Burnout
+41,Low,Hybrid,Data Scientist,Female,Anxiety
+49,High,Hybrid,Data Scientist,Female,Burnout
+36,Low,Hybrid,Data Scientist,Male,Burnout
+53,Medium,Remote,Sales,Male,Anxiety
+33,Low,Hybrid,Marketing,Male,Anxiety
+37,Low,Remote,Designer,Male,Depression
+40,Low,Hybrid,Software Engineer,Male,Depression
+51,Medium,Onsite,Sales,Male,Depression
+35,Low,Onsite,Sales,Male,Depression
+33,High,Remote,Designer,Female,Burnout
+45,Low,Onsite,HR,Male,Burnout
+45,Low,Hybrid,Software Engineer,Female,Anxiety
+23,High,Onsite,HR,Male,Depression
+44,Low,Hybrid,Sales,Female,Anxiety
+52,High,Onsite,Project Manager,Female,Depression
+26,Medium,Onsite,Project Manager,Female,Burnout
+45,High,Onsite,Sales,Male,Burnout
+35,High,Remote,HR,Male,Anxiety
+29,Low,Hybrid,Data Scientist,Male,Depression
+53,High,Hybrid,Project Manager,Female,Burnout
+52,Medium,Hybrid,Data Scientist,Female,Anxiety
+49,High,Remote,Designer,Female,Anxiety
+58,Low,Onsite,Sales,Male,Depression
+43,Low,Hybrid,Software Engineer,Male,Depression
+42,Medium,Hybrid,HR,Male,Depression
+44,High,Remote,Marketing,Male,Burnout
+23,Medium,Onsite,Designer,Female,Anxiety
+46,Medium,Hybrid,Data Scientist,Male,Anxiety
+35,High,Hybrid,Project Manager,Female,Depression
+30,Low,Remote,Project Manager,Male,Depression
+39,Low,Onsite,Sales,Female,Anxiety
+48,Low,Onsite,Marketing,Female,Anxiety
+32,Medium,Remote,Sales,Female,Anxiety
+52,Low,Onsite,Project Manager,Male,Burnout
+26,High,Hybrid,Sales,Male,Burnout
+49,High,Remote,Sales,Female,Anxiety
+29,Medium,Onsite,Sales,Male,Burnout
+36,High,Onsite,Project Manager,Male,Burnout
+44,Medium,Remote,Software Engineer,Male,Anxiety
+31,Medium,Hybrid,Data Scientist,Female,Burnout
+55,High,Hybrid,HR,Male,Burnout
+56,Medium,Onsite,Data Scientist,Male,Burnout
+29,Medium,Hybrid,Data Scientist,Male,Depression
+50,Medium,Onsite,HR,Male,Burnout
+58,Medium,Remote,Data Scientist,Female,Burnout
+35,Low,Remote,Software Engineer,Male,Depression
+53,Medium,Remote,Sales,Male,Burnout
+52,High,Remote,Designer,Female,Burnout
+45,Medium,Onsite,Sales,Male,Depression
+60,Medium,Hybrid,Sales,Female,Anxiety
+52,Low,Remote,HR,Male,Anxiety
+37,High,Hybrid,Software Engineer,Male,Depression
+55,Low,Remote,Project Manager,Female,Burnout
+51,Medium,Onsite,Designer,Male,Anxiety
+28,High,Onsite,Sales,Female,Burnout
+47,Medium,Hybrid,Designer,Female,Burnout
+32,High,Hybrid,Sales,Male,Anxiety
+22,Low,Remote,Data Scientist,Female,Depression
+46,High,Onsite,Project Manager,Male,Anxiety
+49,Medium,Onsite,Marketing,Female,Depression
+25,Low,Remote,Designer,Female,Anxiety
+33,High,Onsite,Sales,Female,Anxiety
+50,Low,Onsite,Designer,Male,Depression
+50,High,Hybrid,HR,Male,Depression
+44,High,Remote,Sales,Female,Burnout
+23,High,Hybrid,Project Manager,Male,Anxiety
+55,Medium,Onsite,Project Manager,Male,Depression
+32,Low,Remote,Marketing,Male,Anxiety
+44,Low,Onsite,Data Scientist,Male,Depression
+40,High,Remote,Project Manager,Female,Depression
+45,Low,Remote,Project Manager,Male,Depression
+34,Medium,Remote,Sales,Female,Anxiety
+57,Medium,Onsite,HR,Male,Depression
+40,High,Remote,Data Scientist,Female,Depression
+60,High,Onsite,Data Scientist,Male,Burnout
+46,Medium,Hybrid,Project Manager,Female,Depression
+26,Medium,Onsite,Software Engineer,Male,Anxiety
+30,Low,Remote,Sales,Male,Depression
+56,High,Onsite,Designer,Female,Anxiety
+36,High,Onsite,Sales,Male,Burnout
+26,Medium,Hybrid,Software Engineer,Female,Depression
+26,Low,Hybrid,Marketing,Male,Burnout
+37,Low,Remote,Sales,Female,Depression
+59,Low,Hybrid,Designer,Female,Burnout
+24,Medium,Remote,HR,Male,Burnout
+31,Low,Remote,Data Scientist,Female,Depression
+43,Medium,Remote,Marketing,Male,Depression
+50,Low,Onsite,Software Engineer,Female,Anxiety
+39,High,Hybrid,HR,Female,Burnout
+22,High,Onsite,Project Manager,Female,Burnout
+52,High,Hybrid,Data Scientist,Female,Anxiety
+28,Medium,Remote,HR,Female,Anxiety
+26,High,Hybrid,Designer,Female,Anxiety
+27,High,Onsite,Software Engineer,Male,Depression
+45,High,Remote,HR,Male,Burnout
+46,High,Remote,Data Scientist,Female,Burnout
+24,Medium,Remote,Project Manager,Female,Depression
+24,High,Remote,Designer,Female,Depression
+29,Medium,Remote,Software Engineer,Male,Depression
+47,High,Onsite,Designer,Male,Depression
+44,Low,Onsite,Software Engineer,Male,Depression
+37,High,Hybrid,Software Engineer,Female,Anxiety
+24,Low,Hybrid,Sales,Female,Anxiety
+25,High,Hybrid,Marketing,Female,Anxiety
+29,High,Hybrid,Marketing,Female,Burnout
+40,Low,Remote,Data Scientist,Female,Depression
+52,Low,Remote,Software Engineer,Female,Burnout
+54,High,Onsite,Sales,Female,Burnout
+52,Low,Onsite,Designer,Female,Anxiety
+31,Medium,Remote,Marketing,Female,Burnout
+48,Low,Remote,Data Scientist,Male,Anxiety
+54,Low,Remote,Project Manager,Female,Depression
+53,Low,Remote,Data Scientist,Female,Depression
+42,Low,Remote,Marketing,Male,Burnout
+51,High,Onsite,Project Manager,Male,Anxiety
+30,High,Onsite,Marketing,Female,Depression
+28,Medium,Onsite,Project Manager,Male,Burnout
+45,Medium,Onsite,Software Engineer,Male,Burnout
+53,Low,Hybrid,Designer,Male,Anxiety
+36,Medium,Remote,Marketing,Female,Burnout
+22,High,Hybrid,Data Scientist,Female,Burnout
+33,Medium,Onsite,Designer,Male,Burnout
+28,Medium,Remote,Designer,Male,Depression
+53,Low,Hybrid,Data Scientist,Male,Anxiety
+37,Low,Remote,Designer,Female,Anxiety
+49,High,Hybrid,HR,Male,Depression
+55,Medium,Onsite,Software Engineer,Male,Anxiety
+35,Medium,Onsite,Software Engineer,Female,Depression
+60,Low,Hybrid,Designer,Female,Anxiety
+49,Low,Remote,Designer,Female,Depression
+47,Medium,Remote,HR,Female,Burnout
+47,High,Hybrid,Data Scientist,Male,Depression
+29,Medium,Hybrid,Data Scientist,Female,Anxiety
+28,High,Hybrid,Sales,Male,Anxiety
+26,Medium,Remote,Project Manager,Male,Depression
+56,Medium,Hybrid,Designer,Male,Anxiety
+43,High,Hybrid,Marketing,Female,Depression
+49,Low,Remote,Designer,Male,Depression
+51,Low,Remote,Software Engineer,Male,Depression
+38,Low,Onsite,Software Engineer,Female,Depression
+41,Low,Remote,Marketing,Male,Anxiety
+34,High,Hybrid,Marketing,Male,Anxiety
+36,High,Remote,Data Scientist,Female,Depression
+45,Medium,Hybrid,HR,Female,Depression
+51,Medium,Onsite,Marketing,Female,Depression
+34,Medium,Remote,Marketing,Female,Depression
+42,Low,Hybrid,Software Engineer,Female,Depression
+56,Low,Onsite,Project Manager,Female,Anxiety
+35,Low,Remote,Data Scientist,Female,Anxiety
+44,Medium,Hybrid,Sales,Female,Burnout
+58,Medium,Remote,Project Manager,Female,Depression
+29,Medium,Onsite,Designer,Female,Anxiety
+34,Medium,Onsite,Software Engineer,Male,Burnout
+31,High,Remote,HR,Female,Anxiety
+34,Low,Hybrid,Sales,Female,Anxiety
+26,Low,Hybrid,Project Manager,Male,Anxiety
+30,High,Remote,Project Manager,Male,Depression
+44,Medium,Onsite,Sales,Female,Burnout
+45,High,Onsite,Project Manager,Male,Anxiety
+28,High,Remote,Marketing,Male,Burnout
+23,Medium,Remote,Marketing,Female,Anxiety
+52,Low,Remote,Designer,Female,Anxiety
+23,Low,Remote,HR,Female,Burnout
+36,High,Remote,Project Manager,Male,Burnout
+25,Low,Onsite,Marketing,Male,Anxiety
+47,Low,Onsite,Designer,Female,Anxiety
+24,Low,Hybrid,Data Scientist,Male,Anxiety
+51,High,Hybrid,Data Scientist,Female,Burnout
+45,High,Hybrid,HR,Male,Depression
+25,Low,Onsite,HR,Male,Depression
+25,Low,Remote,HR,Female,Burnout
+41,Medium,Remote,Data Scientist,Male,Anxiety
+23,High,Onsite,Designer,Female,Burnout
+55,High,Remote,Project Manager,Male,Anxiety
+43,Medium,Onsite,Marketing,Male,Depression
+49,Medium,Hybrid,HR,Female,Depression
+25,Low,Hybrid,Designer,Female,Depression
+45,Low,Onsite,Marketing,Female,Depression
+51,Medium,Hybrid,HR,Female,Depression
+43,High,Remote,Sales,Female,Anxiety
+46,Low,Onsite,Software Engineer,Male,Burnout
+53,High,Onsite,Designer,Male,Anxiety
+22,Medium,Onsite,HR,Female,Anxiety
+57,High,Remote,Software Engineer,Female,Anxiety
+34,Low,Hybrid,Data Scientist,Female,Anxiety
+27,Low,Onsite,Marketing,Female,Depression
+45,Low,Hybrid,Marketing,Male,Depression
+45,High,Hybrid,Project Manager,Female,Anxiety
+57,High,Onsite,Data Scientist,Female,Anxiety
+59,Medium,Hybrid,HR,Female,Depression
+28,Low,Hybrid,HR,Male,Anxiety
+50,Low,Remote,Data Scientist,Male,Depression
+31,Medium,Hybrid,Sales,Female,Depression
+36,Low,Onsite,HR,Male,Burnout
+56,Medium,Hybrid,Project Manager,Female,Anxiety
+53,Low,Remote,Marketing,Female,Anxiety
+42,Low,Remote,HR,Female,Depression
+24,High,Hybrid,Software Engineer,Male,Anxiety
+30,Low,Remote,Data Scientist,Female,Burnout
+46,Low,Hybrid,Sales,Female,Anxiety
+60,Medium,Hybrid,Sales,Female,Burnout
+33,High,Onsite,HR,Male,Anxiety
+36,Low,Remote,HR,Female,Depression
+39,High,Remote,Designer,Male,Anxiety
+51,High,Hybrid,Project Manager,Male,Anxiety
+48,Medium,Onsite,Project Manager,Female,Burnout
+44,Medium,Onsite,Sales,Male,Anxiety
+51,Medium,Remote,Project Manager,Female,Burnout
+27,High,Onsite,HR,Female,Anxiety
+39,High,Onsite,Marketing,Male,Anxiety
+41,Medium,Onsite,HR,Female,Depression
+38,Medium,Remote,HR,Female,Anxiety
+51,Medium,Remote,HR,Female,Depression
+25,Low,Remote,Project Manager,Female,Depression
+27,High,Onsite,HR,Male,Anxiety
+56,Low,Remote,HR,Male,Anxiety
+40,Medium,Hybrid,Software Engineer,Female,Anxiety
+55,High,Remote,Project Manager,Female,Anxiety
+46,Medium,Remote,Data Scientist,Female,Depression
+23,Medium,Onsite,HR,Female,Anxiety
+22,Medium,Hybrid,Designer,Female,Burnout
+25,Low,Remote,Sales,Female,Burnout
+45,Medium,Remote,Sales,Female,Burnout
+51,High,Hybrid,Data Scientist,Female,Anxiety
+31,Low,Remote,Project Manager,Female,Anxiety
+46,Low,Onsite,HR,Male,Burnout
+26,Medium,Hybrid,Software Engineer,Female,Burnout
+54,High,Remote,Data Scientist,Male,Depression
+24,Low,Remote,Project Manager,Female,Burnout
+31,Low,Remote,Data Scientist,Female,Anxiety
+36,High,Onsite,Project Manager,Male,Depression
+36,Low,Hybrid,Sales,Male,Anxiety
+53,High,Remote,Project Manager,Male,Burnout
+51,Medium,Remote,Software Engineer,Female,Depression
+34,High,Hybrid,Data Scientist,Male,Depression
+29,Medium,Remote,Marketing,Male,Burnout
+27,High,Hybrid,Project Manager,Female,Anxiety
+28,Medium,Remote,Software Engineer,Female,Depression
+51,High,Hybrid,Marketing,Male,Burnout
+59,Low,Onsite,Sales,Female,Anxiety
+49,Medium,Remote,Marketing,Female,Depression
+46,Medium,Hybrid,Sales,Female,Anxiety
+38,Medium,Onsite,Data Scientist,Male,Depression
+56,Low,Onsite,HR,Female,Anxiety
+24,High,Onsite,Marketing,Female,Anxiety
+60,Medium,Onsite,Marketing,Male,Depression
+29,Medium,Remote,Software Engineer,Female,Burnout
+49,Medium,Onsite,Project Manager,Male,Anxiety
+29,Low,Hybrid,Project Manager,Male,Burnout
+50,Low,Onsite,Designer,Female,Anxiety
+35,Medium,Onsite,Designer,Female,Depression
+44,High,Hybrid,Sales,Female,Anxiety
+44,Medium,Onsite,Marketing,Female,Anxiety
+27,High,Hybrid,Software Engineer,Male,Burnout
+41,Medium,Remote,HR,Female,Depression
+44,High,Onsite,Designer,Male,Depression
+23,Low,Remote,HR,Female,Burnout
+23,Low,Hybrid,Sales,Male,Depression
+23,Medium,Hybrid,Project Manager,Male,Depression
+51,Medium,Hybrid,Sales,Female,Depression
+42,Medium,Remote,Project Manager,Female,Anxiety
+36,Medium,Hybrid,Sales,Male,Anxiety
+51,Medium,Hybrid,Data Scientist,Female,Anxiety
+32,Low,Remote,Sales,Male,Depression
+37,Low,Remote,Sales,Female,Anxiety
+23,Low,Remote,Data Scientist,Male,Depression
+47,High,Hybrid,Designer,Female,Anxiety
+42,Medium,Onsite,Marketing,Female,Anxiety
+57,Low,Onsite,Data Scientist,Male,Depression
+31,High,Onsite,Project Manager,Male,Anxiety
+54,High,Remote,Designer,Female,Burnout
+58,Medium,Hybrid,Sales,Male,Depression
+59,Low,Hybrid,Sales,Male,Anxiety
+29,Low,Hybrid,Software Engineer,Male,Anxiety
+24,Medium,Hybrid,Sales,Male,Burnout
+38,High,Hybrid,Data Scientist,Female,Burnout
+27,High,Onsite,Project Manager,Male,Burnout
+58,Medium,Hybrid,Marketing,Female,Anxiety
+23,Medium,Onsite,Sales,Female,Burnout
+24,Medium,Onsite,Project Manager,Female,Depression
+25,High,Onsite,Marketing,Male,Anxiety
+42,High,Onsite,HR,Male,Burnout
+31,Low,Remote,HR,Male,Depression
+33,High,Hybrid,Project Manager,Female,Burnout
+32,Low,Onsite,Project Manager,Male,Depression
+53,Low,Hybrid,HR,Female,Burnout
+60,Medium,Hybrid,HR,Male,Depression
+55,Medium,Hybrid,Data Scientist,Male,Burnout
+22,Low,Onsite,Project Manager,Female,Anxiety
+50,Low,Remote,Designer,Female,Burnout
+25,High,Hybrid,Sales,Female,Depression
+56,Low,Remote,Project Manager,Male,Depression
+29,High,Hybrid,Sales,Female,Burnout
+41,Low,Onsite,Designer,Male,Depression
+23,Medium,Hybrid,HR,Male,Burnout
+46,Low,Onsite,Designer,Male,Burnout
+57,Low,Hybrid,Data Scientist,Female,Depression
+45,Medium,Remote,Data Scientist,Female,Burnout
+26,High,Onsite,Data Scientist,Female,Burnout
+39,Low,Hybrid,Data Scientist,Female,Burnout
+24,High,Remote,Project Manager,Female,Burnout
+45,Low,Hybrid,Marketing,Female,Burnout
+41,Low,Remote,HR,Female,Anxiety
+50,Medium,Hybrid,Designer,Female,Burnout
+46,Low,Remote,Sales,Male,Anxiety
+40,Medium,Remote,Data Scientist,Male,Anxiety
+53,Low,Onsite,Designer,Male,Burnout
+26,Medium,Hybrid,Sales,Male,Burnout
+57,Medium,Onsite,Marketing,Male,Anxiety
+60,Low,Hybrid,Data Scientist,Female,Burnout
+32,High,Onsite,Sales,Male,Burnout
+39,Low,Onsite,Sales,Female,Depression
+42,High,Hybrid,Sales,Female,Burnout
+29,Low,Onsite,HR,Male,Depression
